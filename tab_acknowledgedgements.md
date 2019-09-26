@@ -1,9 +1,9 @@
 ---
-title: Example
+title: Sponsorship
 layout:  null
 tab: true
-order: 1
-tags: example-tag
+order: 2
+tags: mstg-sponsorship
 ---
 
 ## Example
