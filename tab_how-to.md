@@ -16,7 +16,7 @@ The documents produced in this project cover many aspects of mobile application 
 
 It is important to note that the security standard, testing guide and checklists are closely related: They all map to the same basic set of requirements. Depending on the context, the documents can be used stand-alone or in combination to achieve different objectives.
 
-<TODO: ADD IMAGE HERE!>
+![Overview](assets/images/overview-800px.jpg)
 
 For example, the MASVS requirements may be used in the planning and architecture design stages, while the checklist and testing guide may serve as a baseline for manual security testing or as a template for automated security tests.
 
