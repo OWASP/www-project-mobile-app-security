@@ -1,6 +1,6 @@
 ---
 title: Acknowledgements
-layout:  null
+layout: null
 tab: true
 order: 5
 tags: mstg
