@@ -6,6 +6,203 @@ order: 3
 tags: mstg
 ---
 
-## Example
+## September 17th, 2019: Xamarin experiment!
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+We have launched a react-native experiment based on our compliancy checklist. Want to teach others how to validate React NAtive apps against the MASVS? Check this [Google sheet](https://drive.google.com/open?id=1UL1yLRREJwXfe0HlrcX-IuvPYQM7lTtG)!.
+
+## September 6th, 2019: Flutter experiment!
+
+We have launched a react-native experiment based on our compliancy checklist. Want to teach others how to validate React NAtive apps against the MASVS? Check this [Google sheet](https://drive.google.com/open?id=1wHK3VI1cU1xmYrCu9yb5OHKUEeLIPSkC)!.
+
+## September 6th, 2019: React native experiment!
+
+We have launched a react-native experiment based on our compliancy checklist. Want to teach others how to validate React NAtive apps against the MASVS? Check this [Google sheet](https://drive.google.com/open?id=1P5FZ_Bup5eSPOmkePZA8cIpKGOKvngkN)!.
+
+## August 29th, 2019: Carlos Holguera joins the leaderteam
+
+We are happy to announce that Carlos Holguera joins us as an official MSTG Author and co-leader! With a team of 3 we hope to march further as that would make our lives easier given that all of this hard work is done by volunteers!
+
+## August 4th, 2019: OSS Release!
+
+After a lot of work, we finally have a new release of the MSTG! Want to know more? Head over to the Github [release page](https://github.com/OWASP/owasp-mstg/releases).
+
+## August 2nd, 2019: Project promoted to Flagship status!
+
+We have been awarded Flagship status! We are very grateful and excited about this! We could not have done this without our team of awesome volunteers that have committed to the project, wrote issues, and supported us in many other ways. A special thanks goes out to OWASP and especially Harold Blankenship for facilitating us to function as a project and for leading the project review at OWASP Appsec Tel-Aviv! Thank you!
+
+## June 5th, 2019: New release of the MASVS
+
+As the summit is progressing, so are we! We have just released a new version of the MASVS (1.1.4). Want to know more? Head over to the Github [release page](https://github.com/OWASP/owasp-masvs/releases)!
+
+## May 21nd, 2019: New release of the MSTG
+
+As part of the preparations for the Open Security Summit, we have released a new version of the MSTG. Want to know more? Head over to the Github [release page](https://github.com/OWASP/owasp-mstg/releases)!
+
+## May 7th, 2019: New release of the MSTG
+
+After many changes, we decided it was time to create a new release in order to improve the book version! Want to know more? Head over to the Github [release page](https://github.com/OWASP/owasp-mstg/releases).
+
+## April 15th, 2019: Book version, project promotion & preparation for the summit
+
+Given that most news is already shared via OWASP Slack over the last quarter, we still see that it is good to share a summary of all of the good things outside of Slack using this news section. In this update we have a lot to share! While we started off this year with an improved version of the MASVS and MSTG, things have not been quiet: there has been a huge development in master of the MSTG and many issues have been raised and fixed. In the meantime, we have worked on an actual print of the book! While an early version is available through Hulu (no link supplied, google and buy at your own risk), we are working on making a better version of that book. In the mean time we have filed for a project promotion to Flagship! Next a lot more cool things happened: with the now official publication of [NIST Special Publication (SP) 800-163 Revision 1](https://csrc.nist.gov/news/2019/nist-publishes-sp-800-163-rev-1), the MASVS and MSTG are getting more mainstream ;-). The MASVS & MSTG are mentioned in various other upcoming programs/standards/recommendations as well, which is really a recognition of the hard work put in by the community. We are proud to be part of such a great project! Next, we are preparing to join the [Open Security Summit](https://opensecsummit.org/tracks/mobile/) again! Already three people will be on site, and at least one remoting, but we would love to work with more people at the project again! Want to know more? Please get in touch via Slack and join the #project-mobile_omtg channel or follow us on [Twitter](https://twitter.com/OWASP_MSTG).
+
+## January 15th, 2019: Release of improved checklist
+
+We released a new version of the checklist! This version has adaptable references so that it can be used with newer versions of the MSTG as well. This version is currently available in French and English and we hope to add the Russian, Japanese, German and Spanish version soon! Want to know more? Take a look at [our release page](https://github.com/OWASP/owasp-mstg/releases/tag/1.1-excel)!. We would like to thank our volunteers for their effort to deliver these easy to use checklists!
+
+## January 3rd, 2019: Multilnaguage Release 1.1.2 of the MASVS
+
+We released the 1.1.2 version of the OWASP MAVS! This is the first version in Chinese, English, French, German, Japanese, Russian, and Spanish! Exactly: we just added French, German, Japanese and Chinese! Obviously this would not be possible without all the volunteers that helped us with translations, feedback, updating, and automating the release proces! We are grateful for the awesome team that pulled this off! Want to see the result? Take a look at [our release page](https://github.com/OWASP/owasp-masvs/releases/tag/1.1.2)!
+
+## November 39th, 2018: Release 1.1.0 of the MSTG
+
+We released the 1.1.0 version of the OWASP MSTG! Now all requirements of the MASVS have at least one covering testcase. We would like to thank all of our contributors for their hard work! Want to check it out? [Check the releases](https://github.com/OWASP/owasp-masvs/releases)!.
+
+## Oktober 28th, 2018: Call for Company references
+
+We are looking for company references that are using or have used the OWASP-MSTG and/or MASVS. If you have done so and are ok with being mentioned: please email to jeroen.willemsen@owasp.org.
+
+## Oktober 28th, 2018: The MASVS is getting more translations
+
+Thanks to Romuald, Koki and many others, new translations of the MASVS are popping up. We now have a Japanese translation added and the French, German and Persian translations are in development. Each of them will be released the moment our release-automation of the MASVS is completed. Until then: feel free to checkout the sources!
+
+## Oktober 18th, 2018: The MSTG is now officially an OWASP Lab Project!
+
+During AppSec US 2018 in San Jose the Mobile Security Testing Guide was reviewed by several volunteers to assess the maturity of the project. As a result our request for project graduation to lab status was granted. The reviews can be found [here](https://docs.google.com/a/owasp.org/document/d/1WiHln8igTE5noquodwWCo_VuRmvnpQtEhGV6z-P37EU/edit?usp=drive_web).
+
+Thanks to Harold Blankenship for organising the project review event during AppSec US and for pushing things forward for all the OWASP projects and of course to all people that took the effort to review our project!
+
+## Oktober 13th, 2018: MSTG 1.0.2 released & Twitter account!
+
+While working hard towards the 1.1.0 milestone of the MSTG, we released the 1.0.2 version. From now onward we have better PDF, Epub and Mobi files! We hope to port this to the MASVS after the Github release. We now have an official Twitter account: [@OWASP_MSTG](https://twitter.com/OWASP_MSTG)!
+
+## September 21th, 2018: MASVS automation started
+
+Now that the document generation process for the MSTG has been optimized enough for milestone 1.1.0 (and we reached #1000 in Github of issues and Pull requests), we have started to improve the MASVS releasing mechanism. This will be further improved after Appsec USA and the release of 1.1.0 of the MSTG.
+
+## September 16th, 2018: MSTG 1.0.1 released
+
+The Mobile Security Testing Guide version 1.0.1 has been released using our automated release system (based on tagging). See the CHANGELOG.md for all the changes. We now have added pdf support and improved our .docx quiet a lot. We will further improve the release process for the pdf and epubs after milestone 1.1.0.
+
+## September 1st, 2018: Mobile Security Testing Guide mentioned in NIST SP-163r1
+
+The Mobile Security Testing Guide is now reference in [NIST SP 800-163 Revision 1](https://csrc.nist.gov/CSRC/media/Publications/sp/800-163/rev-1/error/documents/sp800-163r1-draft.pdf) .
+
+## Augustus 2nd, 2018: Mobile App Security Verification Standard Releases
+
+A lot has happened & we are happy to announce that version 1.1 of the MASVS got released! Not just in English, but in Spanis and Russian as well. Want to know more? [check the releases](https://github.com/OWASP/owasp-masvs/releases)!. We would like to thank our Russian and Spanish speaking volunteers that have put quiet some effort in translating the document! Lastly, we would like to announce that not all minor version releases will be in this news-section, unless something really important changed. Do you want to have the latest version of the MASVS? Just check Github!
+
+## June 16th, 2018: Jeroen Willemsen joins as project lead
+
+Jeroen Willemsen has joined as a project leader for the OMTG project.
+
+## June 15th, 2018: Mobile Security Testing Guide - Release 1.0
+
+The Mobile Security Testing Guide is [now available for download in various formats](https://github.com/OWASP/owasp-mstg#reading-the-mobile-security-testing-guide). This is the first release of the MSTG and is a great community effort. We want to thank [all contributors](https://github.com/OWASP/owasp-mstg/graphs/contributors) through this great journey. Thank you!
+
+## January 13th, 2018: Mobile App Security Verification Standard Release 1.0
+
+[Version 1.0](https://github.com/OWASP/owasp-masvs/releases/download/1.0/OWASP_Mobile_AppSec_Verification_Standard_v1.0.pdf) of the MASVS is now [available for download](https://github.com/OWASP/owasp-masvs/releases/download/1.0/OWASP_Mobile_AppSec_Verification_Standard_v1.0.pdf). This release contains several bug fixes and modifications to security requirements and is our first release.
+
+## September 14th, 2017: Mobile App Security Verification Standard Update
+
+Version 0.9.4 of the MASVS is now [available for download](https://github.com/OWASP/owasp-masvs/releases/tag/0.9.4). This release contains several bug fixes and modifications to security requirements.
+
+## July 5th, 2017: Sponsorship Packages Announced
+
+We are happy to announce that a limited amount of sponsorship packages will be made available shortly through our crowdfunding campaign. With these packages, we offer companies opportunities to create brand awareness and maximize visibility in the mobile security space. 100% of the funds raised go directly into the project budget and will be used to fund production of the final release.
+
+June 17th, 2017: The OWASP Mobile Security Testing Guide - Summit Preview
+The MSTG Summit Preview is an experimental proof-of-concept book created on the OWASP Summit 2017 in London. The goal was to improve the authoring process and book deployment pipeline, as well as to demonstrate the viability of the project. Note that the content is not final and will likely change significantly in subsequent releases.
+
+Download the ebook here.
+
+Mobile Security Testing Workshop on the OWASP Summit 2017
+The OWASP MSTG team is organizing a 5-days mobile security track on the OWASP Summit 2017. The track consists of a series of book sprints, each of which focuses on producing content for a specific section in the OWASP MSTG, as well as proof-reading and editing the existing content. The goal is to make as much progress on the guide as is humanly possible. Depending on the number of participants, we’ll split into sub-groups to work on different subsections or topic areas.
+
+How to Join
+Join up for the working session(s) you like by following the link(s) on the mobile security track page, then hitting the "Edit this page here" link at the bottom, and adding yourself to the "participants" field. Signing up is not mandatory, but helps us to better organize the sessions. Don’t worry though if your session of choice happens on the "wrong" day - you can always simply stop by and we’ll brief you on your topic of choice. After all, this is the Woodstock of appsec!
+
+Mobile security track main page:
+
+http://owaspsummit.org/Working-Sessions/Mobile-Security/
+
+Mobile security track schedule:
+
+http://owaspsummit.org/schedule/tracks/Mobile-Security.html/
+
+April 5th, 2017: Mobile App Security Verification Standard Update
+Version 0.9.3 of the MASVS is now available for download . This release contains several bug fixes and modifications to security requirements:
+
+* Merged requirements 7.8 and 7.9 into for simplification
+* Removed Anti-RE controls 8.1 and 8.2
+* Updated MSTG links to current master
+* Section "Environmental Interaction" renamed to "Platform Interaction"
+* Removed To-dos
+* Fixed some wording & spelling issues
+January 31st, 2017: Mobile App Security Verification Standard v0.9.2 Available For Download
+The Mobile App Security Verification Standard (MASVS) has undergone a major revision, including a re-design of the security model and verification levels. We also revised many security requirements to address the multitude of issues raised on GitHub. The result is MASVS v0.9.2, which is now available for download in PDF format.
+
+As the MASVS is nearing maturity, we have decided to freeze the requirements until the Mobile Testing Guide and checklists "catch up" (due to the one-to-one mapping between requirements in the MASVS and MSTG, changes to the requirements make it necessary to update the other documents as well, causing repeated effort). Unless major issues pop up, the current list will therefore remain in place until MASVS/MSTG v1.0, and further changes will be reserved for v1.1 or later releases.
+
+The MASVS is a community effort to establish security requirements for designing, developing and testing secure mobile apps on iOS and Android. Join the OWASP Mobile Security Project Slack Channel to meet the project members! You can sign up for an account here.
+
+January 28th, 2017: Mobile Crackmes and Reversing Tutorials
+Uncrackable-250.png	
+A key goal of the OWASP Mobile Testing Project is to build the ultimate learning resource and reference guide for mobile app reversers. As hands-on hacking is by far the best way to learn, we'd like to link most of the content to practical examples.
+
+Starting now, we'll be adding crackmes for Android and iOS to the GitHub repo that will then be used as examples throughout the guide. The goal is to collect enough resources for demonstrating the most important tools and techniques in our guide, plus additional crackmes for practicing. For starters there are three challenges:
+
+Android License Validator
+Uncrackable App for iOS Level 1
+Uncrackable App for iOS Level 2
+One of these three already has a documented solution in the guide. Tutorials for solving the other two still need to be added.
+
+We Need More Authors and Contributors!
+Maybe you have noticed that the reverse engineering sections in the Mobile Testing Guide are incomplete. The reason: We're still in the starting stages and don't have a lot of authors and contributors (in fact, 99% of the reversing content was produced by one guy). We'd love to welcome *you* as a contributor of crackmes, tutorials, writeups, or simply new ideas for this project.
+
+What You Can Do
+The OWASP MSTG is an open project and there's a lot of flexibility - it mostly depends on your skill set and willingness to commit your time. That said, the some areas that need help are:
+
+Solving crackmes and contributing a tutorial to the guide (preferable a technique that's not already documented. Check the TOC first).
+Writing and adding new crackmes along with solutions (should also describe something not already in the guide. Cracking white-boxes, dynamic analysis using an emulator / introspection, etc. etc.).
+General reversing write-ups to describe specific processes and techniques
+Help us figure out resiliency testing processes and obfuscation metrics
+The reversing part of the guide consists of the following chapters:
+
+Tampering and Reverse Engineering - General Overview
+Tampering and Reverse Engineering on Android
+Tampering and Reverse Engineering on iOS
+How To Join
+Read the author's guide first, and join the OWASP Mobile Security Project Slack Channel, where you'll find all the other project members. You can sign up for an account here.
+
+January 22nd, 2017: Mobile Testing Guide TOC Available
+As of now, we'll be auto-generating a table of contents out of the current MSTG master branch. This reflects the current state of the guide, and should make it easier to coordinate work between authors. A short-term goal is to finalize the structure of the guide so we get a clearer picture of what will be included in the final document. Lead authors are encouraged to complete the outline of their respective chapters.
+
+On another note, we still need additional authors to help with all sections of the guide, including mobile operating system overviews, testing processes and techniques, and reverse engineering. Especially iOS authors are in short supply! As usual, ping us on the Slack Channel if you want to contribute.
+
+December 4th, 2016: Call For Authors: The Ultimate Open-Source Mobile App Reverse Engineering Guide
+Reverse engineering is an art, and describing every available facet of it would fill a whole library. The sheer range techniques and possible specializations is mind-blowing: One can spend years working on a very specific, isolated sub-problem, such as automating malware analysis or developing novel de-obfuscation methods. For mobile app security testers, it can be challenging to filter through the vast amount of information and build a working methodology. Things become even more problematic when one is tasked to assess apps that are heavily obfuscated and have anti-tampering measures built in.
+
+One of the main goals in the MSTG is to build the ultimate resource for mobile reverse engineers. This includes not only basic static and dynamic analysis, but also advanced de-obfuscation, scripting and automation. Obviously, writing all this content is a lot of work, both in terms of general content and OS-specific how-tos. We're therefore looking for talented authors that want to join the project early on. Topics include the following:
+
+Basic Hybrid Static/Dynamic Analysis
+Code Injection and Dynamic Instrumentation (Substrate, FRIDA)
+Dynamic Binary Instrumentation (Valgrind, PIE)
+Analysis Frameworks (Metasm / Miasm)
+Symbolic Execution
+DCA and DPA attacks on white-box crypto
+Dynamic analysis frameworks (PANDA / DroidScope,...)
+Anything else we might have missed
+What is in for me?
+All of this is unpaid, volunteer work. However, depending on your contribution, you will be named in the "lead authors" or "contributors" list, and you'll be able to point to the fact that you co-authored the guide. You'll also be contributing to the field, helping others who are just starting out, and in turn becoming a happier person yourself (reaping the full benefits of your altruism).
+
+Where do I sign up?
+First of all, have a look at the existing RE chapters outline:
+
+Generic / Introduction
+Android
+iOS
+You'll probably immediately have ideas on how you can contribute. If that's the case, read the author's guide first.
+
+Then contact Bernhard Mueller - ideally directly on the OWASP Mobile Security Project Slack Channel, where you'll find all the other project members. You can sign up for an account here.
