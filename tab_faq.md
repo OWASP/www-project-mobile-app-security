@@ -1,6 +1,6 @@
 ---
 title: FAQ
-layout:  null
+layout: null
 tab: true
 order: 4
 tags: mstg
