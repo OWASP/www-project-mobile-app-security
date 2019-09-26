@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Mobile Security Testing Guide
-tags: example-tag
+tags: mstg
 level: 4
 
 ---

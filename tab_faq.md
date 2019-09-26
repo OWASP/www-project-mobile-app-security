@@ -3,7 +3,7 @@ title: FAQ
 layout:  null
 tab: true
 order: 4
-tags: mstg-FAQ
+tags: mstg
 ---
 
 ## Example

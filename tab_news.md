@@ -3,7 +3,7 @@ title: News
 layout:  null
 tab: true
 order: 3
-tags: mstg-news
+tags: mstg
 ---
 
 ## Example
