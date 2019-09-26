@@ -110,45 +110,53 @@ Version 0.9.4 of the MASVS is now [available for download](https://github.com/OW
 
 ## July 5th, 2017: Sponsorship Packages Announced
 
-We are happy to announce that a limited amount of sponsorship packages will be made available shortly through our crowdfunding campaign. With these packages, we offer companies opportunities to create brand awareness and maximize visibility in the mobile security space. 100% of the funds raised go directly into the project budget and will be used to fund production of the final release.
+We are happy to announce that a limited amount of [sponsorship packages](assets/pdfs/mstg-sponsor-packages.pdf) will be made available shortly through our crowdfunding campaign. With these packages, we offer companies opportunities to create brand awareness and maximize visibility in the mobile security space. 100% of the funds raised go directly into the project budget and will be used to fund production of the final release.
 
-June 17th, 2017: The OWASP Mobile Security Testing Guide - Summit Preview
+## June 17th, 2017: The OWASP Mobile Security Testing Guide - Summit Preview
+
 The MSTG Summit Preview is an experimental proof-of-concept book created on the OWASP Summit 2017 in London. The goal was to improve the authoring process and book deployment pipeline, as well as to demonstrate the viability of the project. Note that the content is not final and will likely change significantly in subsequent releases.
+Download the ebook [here](https://github.com/OWASP/owasp-mstg/releases/download/1.0/owasp-mstg-summit-edition.epub).
 
-Download the ebook here.
+## Mobile Security Testing Workshop on the OWASP Summit 2017
 
-Mobile Security Testing Workshop on the OWASP Summit 2017
 The OWASP MSTG team is organizing a 5-days mobile security track on the OWASP Summit 2017. The track consists of a series of book sprints, each of which focuses on producing content for a specific section in the OWASP MSTG, as well as proof-reading and editing the existing content. The goal is to make as much progress on the guide as is humanly possible. Depending on the number of participants, we’ll split into sub-groups to work on different subsections or topic areas.
 
-How to Join
-Join up for the working session(s) you like by following the link(s) on the mobile security track page, then hitting the "Edit this page here" link at the bottom, and adding yourself to the "participants" field. Signing up is not mandatory, but helps us to better organize the sessions. Don’t worry though if your session of choice happens on the "wrong" day - you can always simply stop by and we’ll brief you on your topic of choice. After all, this is the Woodstock of appsec!
+### How to Join
+
+Join up for the working session(s) you like by following the link(s) on the [mobile security track page](http://owaspsummit.org/Working-Sessions/Mobile-Security/), then hitting the "Edit this page here" link at the bottom, and adding yourself to the "participants" field. Signing up is not mandatory, but helps us to better organize the sessions. Don’t worry though if your session of choice happens on the "wrong" day - you can always simply stop by and we’ll brief you on your topic of choice. After all, this is the Woodstock of appsec!
 
 Mobile security track main page:
 
-http://owaspsummit.org/Working-Sessions/Mobile-Security/
+[http://owaspsummit.org/Working-Sessions/Mobile-Security/](http://owaspsummit.org/Working-Sessions/Mobile-Security/)
 
 Mobile security track schedule:
 
-http://owaspsummit.org/schedule/tracks/Mobile-Security.html/
+[http://owaspsummit.org/schedule/tracks/Mobile-Security.html/](http://owaspsummit.org/Working-Sessions/Mobile-Security/)
 
-April 5th, 2017: Mobile App Security Verification Standard Update
-Version 0.9.3 of the MASVS is now available for download . This release contains several bug fixes and modifications to security requirements:
+## April 5th, 2017: Mobile App Security Verification Standard Update
 
+Version 0.9.3 of the MASVS is now [available for download](https://github.com/OWASP/owasp-masvs/releases/tag/0.9.3). This release contains several bug fixes and modifications to security requirements:
+
+```md
 * Merged requirements 7.8 and 7.9 into for simplification
 * Removed Anti-RE controls 8.1 and 8.2
 * Updated MSTG links to current master
 * Section "Environmental Interaction" renamed to "Platform Interaction"
 * Removed To-dos
 * Fixed some wording & spelling issues
-January 31st, 2017: Mobile App Security Verification Standard v0.9.2 Available For Download
-The Mobile App Security Verification Standard (MASVS) has undergone a major revision, including a re-design of the security model and verification levels. We also revised many security requirements to address the multitude of issues raised on GitHub. The result is MASVS v0.9.2, which is now available for download in PDF format.
+```
+
+## January 31st, 2017: Mobile App Security Verification Standard v0.9.2 Available For Download
+
+The Mobile App Security Verification Standard (MASVS) has undergone a major revision, including a re-design of the security model and verification levels. We also revised many security requirements to address the multitude of [issues raised on GitHub](https://github.com/OWASP/owasp-masvs/issues?q=is%3Aissue%20). The result is MASVS v0.9.2, which is now [available for download](https://github.com/OWASP/owasp-masvs/releases/tag/0.9.2) in PDF format.
 
 As the MASVS is nearing maturity, we have decided to freeze the requirements until the Mobile Testing Guide and checklists "catch up" (due to the one-to-one mapping between requirements in the MASVS and MSTG, changes to the requirements make it necessary to update the other documents as well, causing repeated effort). Unless major issues pop up, the current list will therefore remain in place until MASVS/MSTG v1.0, and further changes will be reserved for v1.1 or later releases.
 
-The MASVS is a community effort to establish security requirements for designing, developing and testing secure mobile apps on iOS and Android. Join the OWASP Mobile Security Project Slack Channel to meet the project members! You can sign up for an account here.
+The MASVS is a community effort to establish security requirements for designing, developing and testing secure mobile apps on iOS and Android. Join the [OWASP Mobile Security Project Slack Channel](https://owasp.slack.com/messages/project-mobile_omtg/details/) to meet the project members! You can sign up for an account [here](https://join.slack.com/t/owasp/shared_invite/enQtNjExMTc3MTg0MzU4LTViMDg1MmJiMzMwZGUxZjgxZWQ1MTE0NTBlOTBhNjhhZDIzZTZiNmEwOTJlYjdkMzAxMGVhNDkwNDNiNjZiOWQ).
 
-January 28th, 2017: Mobile Crackmes and Reversing Tutorials
-Uncrackable-250.png	
+## January 28th, 2017: Mobile Crackmes and Reversing Tutorials
+
+Uncrackable250.png	
 A key goal of the OWASP Mobile Testing Project is to build the ultimate learning resource and reference guide for mobile app reversers. As hands-on hacking is by far the best way to learn, we'd like to link most of the content to practical examples.
 
 Starting now, we'll be adding crackmes for Android and iOS to the GitHub repo that will then be used as examples throughout the guide. The goal is to collect enough resources for demonstrating the most important tools and techniques in our guide, plus additional crackmes for practicing. For starters there are three challenges:
