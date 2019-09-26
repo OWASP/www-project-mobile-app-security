@@ -1,6 +1,6 @@
 ---
 title: News
-layout:  null
+layout: null
 tab: true
 order: 3
 tags: mstg
