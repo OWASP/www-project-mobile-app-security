@@ -3,7 +3,7 @@ title: Sponsorship Packages
 layout:  null
 tab: true
 order: 2
-tags: sponsorship-mstg
+tags: mstg
 ---
 
 ## Example
