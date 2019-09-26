@@ -1,5 +1,5 @@
 ---
-title: Sponsorship_Packages
+title: Sponsorship Packages
 layout: null
 tab: true
 order: 2
