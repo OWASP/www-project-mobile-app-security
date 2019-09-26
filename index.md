@@ -47,4 +47,4 @@ A checklist for use in security assessments. Also contains links to the MSTG tes
 
 ## If you want to help out
 
-Check the [How To section](#).
+Check the [How To section](#how-to).
