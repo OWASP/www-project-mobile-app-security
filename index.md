@@ -37,13 +37,13 @@ Feel free to [download the ePub or Mobi](https://leanpub.com/mobile-security-tes
 
 ![MASVS cover](assets/images/masvs-mini-cover.jpg)
 
-The OWASP Mobile Application Security Verification Standard (MASVS) is a standard for mobile app security. It can be used by mobile software architects and developers seeking to develop secure mobile applications, as well as security testers to ensure completeness and consistency of test results.You can find the sources on the Github repo. We now have versions in the folllowing languages: Chinese, English, French, German, Japanese, Russian, and Spanish! Want to get a pdf/mobi/epub of the standard? Check the release page on Github.
+The OWASP Mobile Application Security Verification Standard (MASVS) is a standard for mobile app security. It can be used by mobile software architects and developers seeking to develop secure mobile applications, as well as security testers to ensure completeness and consistency of test results.You can find the sources on the [Github repo](https://github.com/OWASP/owasp-masvs). We now have versions in the folllowing languages: Chinese, English, French, German, Japanese, Russian, and Spanish! Want to get a pdf/mobi/epub of the standard? Check the [release page](https://github.com/OWASP/owasp-masvs/releases/) on Github.
 
 ### Mobile App Security Checklist
 
 ![Checklist icon](assets/images/checklist.jpg)
 
-A checklist for use in security assessments. Also contains links to the MSTG test case for each requirement. The current release is can be found at Github in English, French, Spanish and Japanese.
+A checklist for use in security assessments. Also contains links to the MSTG test case for each requirement. The [current release is can be found at Github in English, French, Spanish and Japanese](https://github.com/OWASP/owasp-mstg/tree/master/Checklists).
 
 ## If you want to help out
 
