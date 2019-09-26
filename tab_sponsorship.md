@@ -1,6 +1,6 @@
 ---
-title: Sponsorship Packages
-layout:  null
+title: Sponsorship_Packages
+layout: null
 tab: true
 order: 2
 tags: mstg
