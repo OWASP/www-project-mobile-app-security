@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Mobile Security Testing Guide
 tags: mstg
 level: 4
+url: "https://www2.owasp.org/www-project-mobile-security-testing-guide/"
 
 ---
 
