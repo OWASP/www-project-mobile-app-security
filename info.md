@@ -38,7 +38,7 @@
 * OWASP AppSec Day Melbourne October 2019 - [Fixing Mobile AppSec](https://appsecday.io/schedule/#session-7)
 * OWASP Global AppSec Amsterdam September 2019 - [Fast Forwarding mobile security with the OWASP Mobile Security Testing Guide](https://sched.co/TepC)
 * r2con in Barcelona September 2019 - [radare2 and Frida in the OWASP Mobile Security Testing Guide](https://github.com/radareorg/r2con2019/tree/master/talks/r2_and_frida_owasp_mstg)
-* Open Security summit 2019
+* [Open Security summit 2019](pdfs/summit_results/Mstg_101_summit_2019.pdf) - [Outcomes](pdfs/summit_results/Mstg_outcome_summit_2019.pdf)
 * OWASP Kyiv April 2019 - [OWASP MSTG in real life](https://www.youtube.com/watch?v=BTkXlsTQtlI&feature=youtu.be)
 * AppDevcon (Amsterdam), March 2019 - [Securing your mobile app with the OWASP Mobile Security Testing Guide](https://appdevcon.nl/session/securing-your-mobile-app-with-the-owasp-mobile-security-testing-guide/)
 * OWASP BeNeLux days 2018 - [Fast forwarding mobile security with the MSTG, November 2018](https://www.owasp.org/images/c/c4/OWASP_BeNeLux_2018_Jeroen_Willemsen_-_Fast_forwarding_Mobile_Security_with_the_MSTG_compressed.pdf)
