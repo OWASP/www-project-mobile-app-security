@@ -1,4 +1,5 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+
+* [Carlos Holguera](mailto://carlos.holguera@owasp.org)
+* [Sven Schleier](mailto://sven.schleier@owasp.org)
+* [Jeroen Willemsen](mailto://jeroen.willemsen@owasp.org)
