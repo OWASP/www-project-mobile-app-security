@@ -12,6 +12,8 @@ url: "https://www2.owasp.org/www-project-mobile-security-testing-guide/"
 ![Github stars MSTG](https://img.shields.io/github/stars/OWASP/owasp-mstg?label=Stars%20MSTG&style=social)
 ![Github stars MASVS](https://img.shields.io/github/stars/OWASP/owasp-masvs?label=Stars%20MASVS&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/OWASP_MSTG.svg?style=social&label=Follow)
+![MSTG release](https://img.shields.io/github/v/release/OWASP/owasp-mstg?label=MSTG%20release%20version)
+![MASVS release](https://img.shields.io/github/v/release/OWASP/owasp-masvs?label=MASVS%20release%20version)
 
 ## Our Vision
 
