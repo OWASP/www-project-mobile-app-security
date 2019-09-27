@@ -1,12 +1,12 @@
 ---
-title: Sponsorship Packages
+title: Sponsorship
 layout: null
 tab: true
 order: 2
 tags: mstg
 ---
 
-## Sponsorship Packages
+## Sponsorship
 
 With the Mobile Security Testing Guide sponsorship packages, we offer companies opportunities to create brand awareness and maximize visibility in the mobile security space. A limited amount of sponsorship packages will be made available shortly through our crowdfunding campaign.
 
