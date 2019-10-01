@@ -8,17 +8,17 @@ tags: mstg
 
 ## September 17th, 2019: Xamarin experiment!
 
-We have launched a react-native experiment based on our compliancy checklist. Want to teach others how to validate React NAtive apps against the MASVS? Check this [Google sheet](https://drive.google.com/open?id=1UL1yLRREJwXfe0HlrcX-IuvPYQM7lTtG)!.
+We have launched a react-native experiment based on our compliancy checklist. Want to teach others how to validate React Native apps against the MASVS? Check this [Google sheet](https://drive.google.com/open?id=1UL1yLRREJwXfe0HlrcX-IuvPYQM7lTtG)!.
 
 ## September 6th, 2019: Flutter experiment!
 
-We have launched a react-native experiment based on our compliancy checklist. Want to teach others how to validate React NAtive apps against the MASVS? Check this [Google sheet](https://drive.google.com/open?id=1wHK3VI1cU1xmYrCu9yb5OHKUEeLIPSkC)!.
+We have launched a react-native experiment based on our compliancy checklist. Want to teach others how to validate React Native apps against the MASVS? Check this [Google sheet](https://drive.google.com/open?id=1wHK3VI1cU1xmYrCu9yb5OHKUEeLIPSkC)!.
 
 ## September 6th, 2019: React native experiment!
 
-We have launched a react-native experiment based on our compliancy checklist. Want to teach others how to validate React NAtive apps against the MASVS? Check this [Google sheet](https://drive.google.com/open?id=1P5FZ_Bup5eSPOmkePZA8cIpKGOKvngkN)!.
+We have launched a react-native experiment based on our compliancy checklist. Want to teach others how to validate React Native apps against the MASVS? Check this [Google sheet](https://drive.google.com/open?id=1P5FZ_Bup5eSPOmkePZA8cIpKGOKvngkN)!.
 
-## August 29th, 2019: Carlos Holguera joins the leaderteam
+## August 29th, 2019: Carlos Holguera joins the leader team
 
 We are happy to announce that Carlos Holguera joins us as an official MSTG Author and co-leader! With a team of 3 we hope to march further as that would make our lives easier given that all of this hard work is done by volunteers!
 
