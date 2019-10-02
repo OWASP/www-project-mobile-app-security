@@ -6,17 +6,21 @@ order: 3
 tags: mstg
 ---
 
+## October 2nd, 2019:  MSTG Playground release!
+
+Want more training apps? We hear you! We just released the MSTG-Android-Java & MSTG-Android-Kotlin for Android and the MSTG-JWT app for iOS. Come and check it out at [the release page](https://github.com/OWASP/MSTG-Hacking-Playground/releases)! With special thanks to Sven Schleier(@sushi2k), Wen Bin Kong (@kongwenbin), Nikhil Soni (@nikhil), and Ryan Teoh (@ryantzj).
+
 ## September 17th, 2019: Xamarin experiment!
 
-We have launched a react-native experiment based on our compliancy checklist. Want to teach others how to validate React Native apps against the MASVS? Check this [Google sheet](https://drive.google.com/open?id=1UL1yLRREJwXfe0HlrcX-IuvPYQM7lTtG)!.
+We have launched a react-native experiment based on our compliancy checklist. Want to teach others how to validate React Native apps against the MASVS? Check this [Google sheet](https://drive.google.com/open?id=1UL1yLRREJwXfe0HlrcX-IuvPYQM7lTtG)!
 
 ## September 6th, 2019: Flutter experiment!
 
-We have launched a react-native experiment based on our compliancy checklist. Want to teach others how to validate React Native apps against the MASVS? Check this [Google sheet](https://drive.google.com/open?id=1wHK3VI1cU1xmYrCu9yb5OHKUEeLIPSkC)!.
+We have launched a react-native experiment based on our compliancy checklist. Want to teach others how to validate React Native apps against the MASVS? Check this [Google sheet](https://drive.google.com/open?id=1wHK3VI1cU1xmYrCu9yb5OHKUEeLIPSkC)!
 
 ## September 6th, 2019: React native experiment!
 
-We have launched a react-native experiment based on our compliancy checklist. Want to teach others how to validate React Native apps against the MASVS? Check this [Google sheet](https://drive.google.com/open?id=1P5FZ_Bup5eSPOmkePZA8cIpKGOKvngkN)!.
+We have launched a react-native experiment based on our compliancy checklist. Want to teach others how to validate React Native apps against the MASVS? Check this [Google sheet](https://drive.google.com/open?id=1P5FZ_Bup5eSPOmkePZA8cIpKGOKvngkN)!
 
 ## August 29th, 2019: Carlos Holguera joins the leader team
 
