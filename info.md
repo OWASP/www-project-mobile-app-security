@@ -1,43 +1,45 @@
-### mobile security testing guide Information
+### Classification
 
-* [Flagship Project](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide "Flagship project status")
-* [Documentation Project](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide "OWASP Documentation project")
-* [MSTG: Version 1.1.3](https://github.com/OWASP/owasp-mstg/releases "MSTG releases")
-* [MASVS: Version 1.1.4](https://github.com/OWASP/owasp-masvs/releases "MASVS releases")
-* [Compliancy checklist: 1.1.2](https://github.com/OWASP/owasp-mstg/releases "Compliancy checklist release at MSTG repo")
-* [Builder](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide)
-* [Breaker](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide)
-* [Defender](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide)
+<img src="assets/images/Mature_projects.png" width="100" alt="Flagship">
+<br>
+<img src="assets/images/Owasp-builders-small.png" width="100" alt="Builder">
+<br>
+<img src="assets/images/Owasp-breakers-small.png" width="100" alt="Breaker">
+<br>
+<img src="assets/images/Owasp-defenders-small.png" width="100" alt="Defender">
+<br>
+<img src="assets/images/Project_Type_Files_DOC.jpg" width="150" alt="Defender">
+<br>
 
 ### Downloads or Social Links
 
-* [Download MSTG](https://github.com/OWASP/owasp-mstg/releases "MSTG releases")
-* [Download MASVS](https://github.com/OWASP/owasp-masvs/releases "MASVS releases")
-* [Download compliancy checklist](https://github.com/OWASP/owasp-mstg/releases "Compliancy checklist release at MSTG repo")
-* [Twitter](https://twitter.com/OWASP_MSTG "MSTG official twitter")
+- [Download MSTG](https://github.com/OWASP/owasp-mstg/releases "MSTG releases")
+- [Download MASVS](https://github.com/OWASP/owasp-masvs/releases "MASVS releases")
+- [Download compliancy checklist](https://github.com/OWASP/owasp-mstg/releases "Compliancy checklist release at MSTG repo")
+- [Twitter](https://twitter.com/OWASP_MSTG "MSTG official twitter")
 
-### Code Repository
+### Github Repository
 
-* [MSTG repo](https://github.com/OWASP/owasp-mstg "MSTG repo")
-* [MASVS repo](https://github.com/OWASP/owasp-masvs "MASVS repo")
-* [MSTG Hacking Playground repo](https://github.com/OWASP/MSTG-Hacking-Playground "MSTG hacking playground")
+- [MSTG repo](https://github.com/OWASP/owasp-mstg "MSTG repo")
+- [MASVS repo](https://github.com/OWASP/owasp-masvs "MASVS repo")
+- [MSTG Hacking Playground repo](https://github.com/OWASP/MSTG-Hacking-Playground "MSTG hacking playground")
 
-### Change Log
+### Changelog
 
-* [changes MSTG](https://github.com/OWASP/owasp-mstg/blob/master/CHANGELOG.md "MSTG changelog")
-* [changes MASVS](https://github.com/OWASP/owasp-masvs/blob/master/CHANGELOG.md "MASVS changelog")
+- [Latest Changelog MSTG](https://github.com/OWASP/owasp-mstg/blob/master/CHANGELOG.md "MSTG changelog")
+- [Latest Changelog MASVS](https://github.com/OWASP/owasp-masvs/blob/master/CHANGELOG.md "MASVS changelog")
 
 ### Leaders
 
-* [Carlos Holguera](mailto://carlos.holguera@owasp.org)
-* [Sven Schleier](mailto://sven.schleier@owasp.org)
-* [Jeroen Willemsen](mailto://jeroen.willemsen@owasp.org)
+- [Carlos Holguera](mailto://carlos.holguera@owasp.org)
+- [Sven Schleier](mailto://sven.schleier@owasp.org)
+- [Jeroen Willemsen](mailto://jeroen.willemsen@owasp.org)
 
 ### Getting involved
 
- * [Code of Conduct](https://github.com/OWASP/owasp-mstg/blob/master/CODE_OF_CONDUCT.md)
- * [Contributing to MASVS](https://github.com/OWASP/owasp-masvs/blob/master/CONTRIBUTING.md)
- * [Contributing to MSTG](https://github.com/OWASP/owasp-mstg/blob/master/CONTRIBUTING.md)
+- [Code of Conduct](https://github.com/OWASP/owasp-mstg/blob/master/CODE_OF_CONDUCT.md)
+- [Contributing to MASVS](https://github.com/OWASP/owasp-masvs/blob/master/CONTRIBUTING.md)
+- [Contributing to MSTG](https://github.com/OWASP/owasp-mstg/blob/master/CONTRIBUTING.md)
 
 ### Licensing
 
