@@ -6,9 +6,13 @@ order: 3
 tags: mstg
 ---
 
-## October 2nd, 2019:  MSTG Playground release!
+## October 2nd, 2019: MSTG Playground Release!
 
 Want more training apps? We hear you! We just released the MSTG-Android-Java & MSTG-Android-Kotlin for Android and the MSTG-JWT app for iOS. Come and check it out at [the release page](https://github.com/OWASP/MSTG-Hacking-Playground/releases)! With special thanks to Sven Schleier(@sushi2k), Wen Bin Kong (@kongwenbin), Nikhil Soni (@nikhil), and Ryan Teoh (@ryantzj).
+
+## October 2nd, 2019: MSTG Project joins Hacktoberfest!
+
+We are joining the #hacktoberfest October 2-31. Check out our issues [at Github](https://github.com/OWASP/owasp-mstg/labels/Hacktoberfest). Register at [https://hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com).
 
 ## September 17th, 2019: Xamarin experiment!
 
