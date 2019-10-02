@@ -25,7 +25,7 @@ We are writing a security standard for mobile apps and a comprehensive testing g
 
 ### Mobile Security Testing Guide (MSTG)
 
-<img align="right" src="assets/images/mstg-cover-release-small.jpg" />
+<img align="right" style="padding: 10px;" width="220px" src="assets/images/mstg-cover-release-small.jpg" />
 
 The MSTG is a comprehensive manual for mobile app security testing and reverse engineering for iOS and Android mobile security testers with the following content:
 
@@ -42,7 +42,7 @@ Feel free to [download the EPUB or Mobi](https://leanpub.com/mobile-security-tes
 
 ### Mobile App Security Requirements and Verification
 
-<img align="right" src="assets/images/masvs-mini-cover.jpg" />
+<img align="right" style="padding: 10px;" width="220px" src="assets/images/masvs-mini-cover.jpg" />
 
 The OWASP Mobile Application Security Verification Standard (MASVS) is, as the name implies, a standard for mobile app security. It can be used by mobile software architects and developers seeking to develop secure mobile applications, as well as security testers to ensure completeness and consistency of test results.
 
