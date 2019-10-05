@@ -29,12 +29,6 @@
 - [Latest Changelog MSTG](https://github.com/OWASP/owasp-mstg/blob/master/CHANGELOG.md "MSTG changelog")
 - [Latest Changelog MASVS](https://github.com/OWASP/owasp-masvs/blob/master/CHANGELOG.md "MASVS changelog")
 
-### Leaders
-
-- [Carlos Holguera](mailto://carlos.holguera@owasp.org)
-- [Sven Schleier](mailto://sven.schleier@owasp.org)
-- [Jeroen Willemsen](mailto://jeroen.willemsen@owasp.org)
-
 ### Getting involved
 
 - [Code of Conduct](https://github.com/OWASP/owasp-mstg/blob/master/CODE_OF_CONDUCT.md)
