@@ -8,7 +8,7 @@ tags: mstg
 
 ## October 4th, 2019: Pre-release of MASVS 1.2!
 
-We have released a first releaseclient of MASVS Version 1.2. This release-client will be the referenc document for further translations.
+We have a pre-release of MASVS Version 1.2. This will be the reference document for further translations.
 
 ## October 2nd, 2019: MSTG Playground Release!
 
