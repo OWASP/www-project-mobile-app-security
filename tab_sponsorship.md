@@ -1,5 +1,6 @@
 ---
-title: Sponsorship Packages
+title: Sponsorship
+displaytext: Sponsorship Packages
 layout: null
 tab: true
 order: 2
