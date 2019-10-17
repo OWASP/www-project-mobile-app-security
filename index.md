@@ -5,6 +5,7 @@ title: OWASP Mobile Security Testing Guide
 tags: mstg
 level: 4
 url: "https://www2.owasp.org/www-project-mobile-security-testing-guide/"
+type: documentation
 
 ---
 [![Creative Commons License](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0")
