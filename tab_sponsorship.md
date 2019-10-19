@@ -37,13 +37,13 @@ Contact [Sven Schleier](mailto:sven.schleier@owasp.org) or [Jeroen Willemsen](ma
 
 ## Why Sponsor?
 
-As it turns out, writing a book to a professional standard is a challenging task, even more so if there's 75+ authors that aren't necessarily native speakers. Also, professional editors, graphic designers and layouters don't work for free. Thus, some funds are needed to make the tech book a reality.
+As it turns out, writing a book to a professional standard is a challenging task, even more so if there are 75+ authors that aren't necessarily native speakers. Also, professional editors and graphic designers don't work for free. Thus, some funds are needed to make sure we can publish a quality tech book.
 
 100% of the funds raised go directly into the project budget and will be used to fund production of the final release, including:
 
 - Editing and proofreading by professional editors.
 - Graphic design and layout improvements.
-- We might have to allocate money for testdevices if certain tests are not doable on existing emulators/simulators/test-devices.
+- Acquiring new test devices if certain tests can not be executed on existing emulators/simulators/test devices.
 
 Money left over will be saved for future rounds of editing.
 
