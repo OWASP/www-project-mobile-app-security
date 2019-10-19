@@ -27,9 +27,9 @@ Small company logo on the sponsors page of the printed and ebook versions
 
 ### God Mode Sponsor (USD 4,000 / 5 Available)
 
-Large company logo in the “God mode sponsors” section on project website and Github
-Large company logo on the sponsors page of the printed and ebook versions 
-20 Paperback Books
+- Large company logo in the “God mode sponsors” section on project website and Github.
+- Large company logo on the sponsors page of the printed and ebook versions.
+- 20 Paperback Books.
 
 ## Book a package
 
@@ -43,6 +43,6 @@ As it turns out, writing a book to a professional standard is a challenging task
 
 Editing and proofreading by professional editors Graphic design and layout. Any leftover funds will be donated to the OWASP Foundation to the mobile security project for future use.
 
-## Smaller forms of donation
+## Other Forms of Donation
 
-If you want to helpout the project, but don't have 500 bucks to spare, you can always contribute and end up at our [Acknowledgemenet section](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x02-Frontispiece.md#acknowledgments "MSTG acknowledgements") or you can donate by buying a digital copy of the MSTG at [Leanpub](https://leanpub.com/mobile-security-testing-guide "MSTG at Leanpub"). Donators can be mentioned in the acknowledgement section as well, from 10 USD onward. Note that you are anynounymous to us when you buy via Leanpub. Therefore, if you want to get listed, submit your payment receipt to [Sven Schleier](mailto:sven.schleier@owasp.org) or [Jeroen Willemsen](mailto:jeroen.willemsen@owasp.org).
+If you want to help out the project, but don't have enough funds to be a _Good Samaritan_, you can always contribute and end up at our [acknowledgement section](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x02-Frontispiece.md#acknowledgments "MSTG acknowledgements") or you can donate by buying a digital copy of the MSTG at [Leanpub](https://leanpub.com/mobile-security-testing-guide "MSTG at Leanpub"). Donators can be mentioned in the acknowledgement section as well, from 10 USD onward. Note that you are anonymous to us when you buy via Leanpub. Therefore, if you want to get listed, submit your payment receipt to [Sven Schleier](mailto:sven.schleier@owasp.org) or [Jeroen Willemsen](mailto:jeroen.willemsen@owasp.org).
