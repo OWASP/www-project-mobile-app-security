@@ -41,8 +41,8 @@ As it turns out, writing a book to a professional standard is a challenging task
 
 100% of the funds raised go directly into the project budget and will be used to fund production of the final release, including:
 
-- Editing and proofreading by professional editors;
-- Graphic design and layout;
+- Editing and proofreading by professional editors.
+- Graphic design and layout improvements.
 - We might have to allocate money for testdevices if certain tests are not doable on existing emulators/simulators/test-devices.
 
 Money left over will be saved for future rounds of editing.
