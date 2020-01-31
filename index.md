@@ -71,7 +71,7 @@ Below you can find a list of upcoming and previous talks:
 
 - OWASP New Zealand Day, February 2020 - [Building Secure Mobile Apps (you don’t have to learn it the hard way!)](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2020#tab=Conference_-_21_February)
 - iOS Conf Singapore, January 2020 - Building Secure iOS Apps (you don’t have to learn it the hard way!) [Slides](http://bit.ly/2QRrSZ2)
-- OWASP AppSec Day Melbourne, October 2019 - [Fixing Mobile AppSec](https://appsecday.io/schedule/#session-7). [Video]([Video](https://www.youtube.com/watch?v=Jm_i6I5B1HM&list=PLPvxR0i93gjRu5ZWvoqf6-jd__FyFoqmQ&index=9&t=6s)
+- OWASP AppSec Day Melbourne, October 2019 - [Fixing Mobile AppSec](https://appsecday.io/schedule/#session-7) [Video](https://youtu.be/Jm_i6I5B1HM)
 - OWASP Global AppSec Amsterdam, September 2019 - [Fast Forwarding mobile security with the OWASP Mobile Security Testing Guide](https://sched.co/TepC)
 - r2con in Barcelona, September 2019 - [radare2 and Frida in the OWASP Mobile Security Testing Guide](https://github.com/radareorg/r2con2019/tree/master/talks/r2_and_frida_owasp_mstg)
 - [Open Security summit 2019](assets/pdfs/summit_results/Mstg_101_summit_2019.pdf) - [Outcomes](/assets/pdfs/summit_results/Mstg_outcome_summit_2019.pdf)
