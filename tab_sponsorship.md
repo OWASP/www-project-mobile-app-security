@@ -11,7 +11,7 @@ tags: mstg
 
 With the Mobile Security Testing Guide sponsorship packages, we offer companies opportunities to create brand awareness and maximize visibility in the mobile security space. A limited amount of sponsorship packages will be made available shortly through our crowdfunding campaign.
 
-The following packages are available ([download as PDF](/assets/pdfs/mstg-sponsor-packages.pdf)):
+The following packages are available ([download as PDF](/www-project-mobile-security-testing-guide/assets/pdfs/mstg-sponsor-packages.pdf)):
 
 ### Good Samaritan (USD 500)
 
