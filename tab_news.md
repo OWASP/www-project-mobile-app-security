@@ -6,11 +6,11 @@ order: 3
 tags: mstg
 ---
 
-## March 17th, 2020: International release of MASVS
+## March 17th, 2020: International release of MASVS 1.2
 
 After some bumps in the road, we finally have released the international version of the MASVS 1.2! We would like to thank all the contributors, translators and those who build the improved automation around it!
-New releases will be much faster thanks to our github actions and docker containers. Next to that, we are happy to add Korean and Chinese Simplified to our ever growing list of translations!
-We will finalize the document generation system and them apply the same buildsystem to the MSTG in order to speed up the release process and release more frequently.
+New releases will be much faster thanks to our GitHub actions and docker containers. Next to that, we are happy to add Korean and Chinese Simplified to our ever growing list of translations!
+We will finalize the document generation system and then apply the same build system to the MSTG in order to speed up the release process and release more frequently.
 
 ## October 4th, 2019: Pre-release of MASVS 1.2!
 
