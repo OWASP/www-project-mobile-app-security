@@ -43,7 +43,7 @@ Feel free to [download the EPUB or Mobi](https://leanpub.com/mobile-security-tes
 
 ### Mobile App Security Requirements and Verification
 
-<img align="right" style="padding: 10px;" width="220px" src="assets/images/masvs-mini-cover.jpg" />
+<img align="right" style="padding: 10px;" width="220px" src="assets/images/masvs-mini-cover.png" />
 
 The OWASP Mobile Application Security Verification Standard (MASVS) is, as the name implies, a standard for mobile app security. It can be used by mobile software architects and developers seeking to develop secure mobile applications, as well as security testers to ensure completeness and consistency of test results.
 
@@ -51,11 +51,13 @@ You can contribute and comment in the [GitHub Repo](https://github.com/OWASP/owa
 
 We now have versions in the following languages:
 
-- Chinese
+- Chinese (traditional)
+- Chinese (simplified)
 - English
 - French
 - German
 - Japanese
+- Korean
 - Russian
 - Spanish
 
@@ -70,7 +72,7 @@ A checklist is available for use in security assessments that is based on the MA
 Below you can find a list of upcoming and previous talks:
 
 - OWASP New Zealand Day, February 2020 - [Building Secure Mobile Apps (you don’t have to learn it the hard way!)](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2020#tab=Conference_-_21_February)
-- iOS Conf Singapore, January 2020 - Building Secure iOS Apps (you don’t have to learn it the hard way!) [Slides](http://bit.ly/2QRrSZ2)
+- iOS Conf Singapore, January 2020 - Building Secure iOS Apps (you don’t have to learn it the hard way!) [Slides](http://bit.ly/2QRrSZ2), [Video](https://engineers.sg/video/building-secure-ios-apps-you-don-t-have-to-learn-it-the-hard-way-ios-conf-sg-2020--3932)
 - OWASP AppSec Day Melbourne, October 2019 - [Fixing Mobile AppSec](https://appsecday.io/schedule/#session-7) [Video](https://youtu.be/Jm_i6I5B1HM)
 - OWASP Global AppSec Amsterdam, September 2019 - [Fast Forwarding mobile security with the OWASP Mobile Security Testing Guide](https://sched.co/TepC)
 - r2con in Barcelona, September 2019 - [radare2 and Frida in the OWASP Mobile Security Testing Guide](https://github.com/radareorg/r2con2019/tree/master/talks/r2_and_frida_owasp_mstg)
