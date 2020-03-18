@@ -12,7 +12,7 @@ A new version of the OWASP Mobile Application Security Standard (MASVS) was rele
 
 Thanks to the great support of our community we have now 9 different languages available in total for the MASVS and would like to thank all of our translators for their great work and support throughout:
 
-- Chinese (traditional) - Peter Chi, and Lex Chien, Henry Hu, Leo Wang
+- Chinese (traditional) - Peter Chi, Lex Chien, Henry Hu and Leo Wang
 - Chinese (simplified) - Bob Peng, Harold Zang and Jack S
 - English - Jeroen Willemsen, Sven Schleier, Carlos Holguera and Jeroen Beckers
 - French - Romuald Szkudlarek, Abderrahmane Aftahi, Christian Dong (Review)
