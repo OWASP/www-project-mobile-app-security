@@ -15,7 +15,7 @@ Thanks to the great support of our community we have now 9 different languages a
 - Chinese (traditional) - Peter Chi, Lex Chien, Henry Hu and Leo Wang
 - Chinese (simplified) - Bob Peng, Harold Zang and Jack S
 - English - Jeroen Willemsen, Sven Schleier, Carlos Holguera and Jeroen Beckers
-- French - Romuald Szkudlarek, Abderrahmane Aftahi, Christian Dong (Review)
+- French - Romuald Szkudlarek, Abderrahmane Aftahi and Christian Dong (Review)
 - German - Rocco Gränitz and Sven Schleier
 - Japanese - Koki Takeyama, Riotaro Okada (Review)
 - Korean - Youngjae Jeon, Jeongwon Cho, Jiyou Han and Jiyeon Sung
