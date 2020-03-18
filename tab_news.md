@@ -19,7 +19,7 @@ Thanks to the great support of our community we have now 9 different languages a
 - German - Rocco Gränitz, and Sven Schleier
 - Japanese - Koki Takeyama, Riotaro Okada (Review)
 - Korean - Youngjae Jeon, Jeongwon Cho, Jiyou Han, and Jiyeon Sung
-- Russian - Eugen Martynov, Gall Maxim, Chelnokov Vladislav (Review), Oprya Egor (Review), Tereshin Dmitry (Review) |
+- Russian - Eugen Martynov, Gall Maxim, Chelnokov Vladislav (Review), Oprya Egor (Review) and Tereshin Dmitry (Review)
 - Spanish - Martin Marsicano, and Carlos Holguera
 
 The MASVS and its translations are availabe in PDF, Mobile, ePub, docx and you can also read it via Gitbook. See here for details: <https://github.com/OWASP/owasp-masvs#getting-the-masvs>
