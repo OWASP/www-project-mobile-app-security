@@ -18,7 +18,7 @@ Thanks to the great support of our community we have now 9 different languages a
 - French - Romuald Szkudlarek, Abderrahmane Aftahi, Christian Dong (Review)
 - German - Rocco Gränitz, and Sven Schleier
 - Japanese - Koki Takeyama, Riotaro Okada (Review)
-- Korean - Youngjae Jeon, Jeongwon Cho, Jiyou Han, and Jiyeon Sung
+- Korean - Youngjae Jeon, Jeongwon Cho, Jiyou Han and Jiyeon Sung
 - Russian - Eugen Martynov, Gall Maxim, Chelnokov Vladislav (Review), Oprya Egor (Review) and Tereshin Dmitry (Review)
 - Spanish - Martin Marsicano, and Carlos Holguera
 
