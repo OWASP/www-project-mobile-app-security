@@ -17,7 +17,7 @@ Thanks to the great support of our community we have now 9 different languages a
 - English - Jeroen Willemsen, Sven Schleier, Carlos Holguera and Jeroen Beckers
 - French - Romuald Szkudlarek, Abderrahmane Aftahi and Christian Dong (Review)
 - German - Rocco Gränitz and Sven Schleier
-- Japanese - Koki Takeyama, Riotaro Okada (Review)
+- Japanese - Koki Takeyama and Riotaro Okada (Review)
 - Korean - Youngjae Jeon, Jeongwon Cho, Jiyou Han and Jiyeon Sung
 - Russian - Eugen Martynov, Gall Maxim, Chelnokov Vladislav (Review), Oprya Egor (Review) and Tereshin Dmitry (Review)
 - Spanish - Martin Marsicano and Carlos Holguera
