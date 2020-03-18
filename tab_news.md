@@ -10,7 +10,7 @@ tags: mstg
 
 A new version of the OWASP Mobile Application Security Standard (MASVS) was released! The MASVS establishes baseline security requirements for mobile apps and summarizes them in one standard. With this new release we achieved a significant alignment and coverage with existing mobile security documents from ENISA, older NIST documents, OWASP Mobile top 10, and others. The new version 1.2 is available in Github Releases: <https://github.com/OWASP/owasp-masvs/releases/tag/v1.2>. For more details please look into our Changelog for Version 1.2 and Version 1.2-RC <https://github.com/OWASP/owasp-masvs/blob/master/Document/CHANGELOG.md>.
 
-Due to the great support of our community we have now 9 different languages available in total for the MASVS and would like to thank all of our translators for their great work and support throughout:
+Thanks to the great support of our community we have now 9 different languages available in total for the MASVS and would like to thank all of our translators for their great work and support throughout:
 
 - Chinese (traditional) - Peter Chi, and Lex Chien, Henry Hu, Leo Wang
 - Chinese (simplified) - Bob Peng, Harold Zang, and Jack S
