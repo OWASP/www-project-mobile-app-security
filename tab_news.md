@@ -24,7 +24,7 @@ Thanks to the great support of our community we have now 9 different languages a
 
 The MASVS and its translations are availabe in PDF, Mobile, ePub, docx and you can also read it via Gitbook. See here for details: <https://github.com/OWASP/owasp-masvs#getting-the-masvs>
 
-The project team (Sven Schleier, Jeroen Willemsen and Carlos Holguera)  would like to thank all the contributors, translators and those who build the improved automation around it and all their hard work and support in the last few months! New releases will be much faster thanks to our GitHub actions and Docker containers. Next to that, we are happy to add Korean and Chinese Simplified to our ever growing list of translations! We will finalize the document generation system and then apply the same build system to the Mobile Security Testing Guide (MSTG) in order to speed up the release process and release more frequently.
+The project team (Sven Schleier, Jeroen Willemsen and Carlos Holguera) would like to thank all the contributors, translators and those who build the improved automation around it and all their hard work and support in the last few months! New releases will be much faster thanks to our GitHub actions and Docker containers. Next to that, we are happy to add Korean and Chinese Simplified to our ever growing list of translations! We will finalize the document generation system and then apply the same build system to the Mobile Security Testing Guide (MSTG) in order to speed up the release process and release more frequently.
 
 ## October 4th, 2019: Pre-release of MASVS 1.2!
 
