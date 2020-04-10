@@ -6,6 +6,35 @@ order: 3
 tags: mstg
 ---
 
+## April 10th 2020: #StayHome and share your knowledge!
+
+Hi everybody, 
+
+we are all in more or less restrictive lock-down situations, but the guideline is always #StayHome. This is definitely a challenging time for you, but also us. But luckily it was also never easier to collaborate and share, through so many different tools and platforms. 
+
+The OWASP Mobile Security Testing Guide (MSTG) project team wants to encourage people to #StayHome and also use this time to share your knowledge with the community. So if you want to either share your knowledge in mobile security or are just keen in doing some research in this area, we have many open issues where we are still looking for volunteers.
+
+If you can close 5 issues that we marked with the tag #StayHome we will sent you in return a hard copy of the [OWASP MSTG](http://www.lulu.com/shop/sven-schleier-and-jeroen-willemsen-and-bernhard-m%C3%BCller/owasp-mobile-security-testing-guide/paperback/product-24198359.html)! We are giving away a total of 5 books on a first come first serve basis.
+
+If you are interested, do the following:
+
+1. Go through the open issues in our Github repo with the tag [#StayHome](https://github.com/OWASP/owasp-mstg/issues?q=is%3Aissue+is%3Aopen+label%3AStayHome).
+
+2. Make a comment in the issue that you would like to take care of it, which will be assigned on a first come first serve basis. For any clarifications you can ping either Carlos or Sven in OWASP Slack. If you don't have an account yet, please check here on how to register.
+
+3. Work on the issue and create a Pull Request (PR). If you are new to Git(hub), check out our [contribution guide](https://github.com/OWASP/owasp-mstg/blob/master/CONTRIBUTING.md#how-to-contribute) for further details.
+
+4. We will review the PR and merge once all comments are addressed/resolved.
+
+5. Start at 1. :-) 
+
+We would love to have you as contributor. Feel free to share the mail or like our tweet
+
+Stay safe, take care and #StayHome!
+
+Sven, Jeroen and Carlos 
+
+
 ## March 17th, 2020: International release of MASVS 1.2
 
 A new version of the OWASP Mobile Application Security Standard (MASVS) was released! The MASVS establishes baseline security requirements for mobile apps and summarizes them in one standard. With this new release we achieved a significant alignment and coverage with existing mobile security documents from ENISA, older NIST documents, OWASP Mobile top 10, and others. The new version 1.2 is available in Github Releases: <https://github.com/OWASP/owasp-masvs/releases/tag/v1.2>. For more details please look into our Changelog for Version 1.2 and Version 1.2-RC <https://github.com/OWASP/owasp-masvs/blob/master/Document/CHANGELOG.md>.
