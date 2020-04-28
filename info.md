@@ -1,15 +1,17 @@
-### Classification
+### Project Information
 
-<img src="assets/images/Mature_projects.png" width="100" alt="Flagship">
-<br>
-<img src="assets/images/Owasp-builders-small.png" width="100" alt="Builder">
-<br>
-<img src="assets/images/Owasp-breakers-small.png" width="100" alt="Breaker">
-<br>
-<img src="assets/images/Owasp-defenders-small.png" width="100" alt="Defender">
-<br>
-<img src="assets/images/Project_Type_Files_DOC.jpg" width="150" alt="Defender">
-<br>
+* <i class="fas fa-flag" style="font-size: 1.3em; color:#2ADA08;"></i>
+  <span style="font-size: 1.3em;">Flagship Project</span>
+
+#### Classification
+
+* <i class="fas fa-book" style="color:#233e81;"></i> Documentation
+
+#### Audience
+
+* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
+* <i class="fas fa-hammer" style="color:#233e81;"></i> Breaker
+* <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defender
 
 ### Downloads or Social Links
 
