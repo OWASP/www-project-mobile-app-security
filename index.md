@@ -71,6 +71,7 @@ A checklist is available for use in security assessments that is based on the MA
 
 Below you can find a list of upcoming and previous talks:
 
+- OWASP Dutch Virtual chapther meetup, May 2020 [recording/livestream](https://youtu.be/cuB8TNT0rMw)
 - OWASP New Zealand Day, February 2020 - [Building Secure Mobile Apps (you don’t have to learn it the hard way!)](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2020#tab=Conference_-_21_February)
 - iOS Conf Singapore, January 2020 - Building Secure iOS Apps (you don’t have to learn it the hard way!) [Slides](http://bit.ly/2QRrSZ2), [Video](https://engineers.sg/video/building-secure-ios-apps-you-don-t-have-to-learn-it-the-hard-way-ios-conf-sg-2020--3932)
 - OWASP AppSec Day Melbourne, October 2019 - [Fixing Mobile AppSec](https://appsecday.io/schedule/#session-7) [Video](https://youtu.be/Jm_i6I5B1HM)

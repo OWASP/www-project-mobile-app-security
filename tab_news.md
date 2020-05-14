@@ -8,9 +8,9 @@ tags: mstg
 
 ## April 10th 2020: #StayHome and share your knowledge!
 
-Hi everybody, 
+Hi everybody,
 
-we are all in more or less restrictive lock-down situations, but the guideline is always #StayHome. This is definitely a challenging time for you, but also us. But luckily it was also never easier to collaborate and share, through so many different tools and platforms. 
+we are all in more or less restrictive lock-down situations, but the guideline is always #StayHome. This is definitely a challenging time for you, but also us. But luckily it was also never easier to collaborate and share, through so many different tools and platforms.
 
 The OWASP Mobile Security Testing Guide (MSTG) project team wants to encourage people to #StayHome and also use this time to share your knowledge with the community. So if you want to either share your knowledge in mobile security or are just keen in doing some research in this area, we have many open issues where we are still looking for volunteers.
 
@@ -26,14 +26,13 @@ If you are interested, do the following:
 
 4. We will review the PR and merge once all comments are addressed/resolved.
 
-5. Start at 1. :-) 
+5. Start at 1. :-)
 
 We would love to have you as contributor. Feel free to share the mail or like our tweet
 
 Stay safe, take care and #StayHome!
 
-Sven, Jeroen and Carlos 
-
+Sven, Jeroen and Carlos
 
 ## March 17th, 2020: International release of MASVS 1.2
 
