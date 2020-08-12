@@ -126,7 +126,7 @@ We released the 1.1.0 version of the OWASP MSTG! Now all requirements of the MAS
 
 ## Oktober 28th, 2018: Call for Company references
 
-We are looking for company references that are using or have used the OWASP-MSTG and/or MASVS. If you have done so and are ok with being mentioned: please email to jeroen.willemsen@owasp.org.
+We are looking for company references that are using or have used the OWASP-MSTG and/or MASVS. If you have done so and are ok with being mentioned: please email to sven.schleier@owasp.org.
 
 ## Oktober 28th, 2018: The MASVS is getting more translations
 
