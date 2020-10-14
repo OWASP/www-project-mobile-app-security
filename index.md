@@ -65,7 +65,7 @@ Want to get a PDF/Mobi/EPUB of the standard? Check the [release page](https://gi
 
 ### Mobile App Security Checklist
 
-A checklist is available for use in security assessments that is based on the MASVS and MSTG and contains links to the MSTG test case for each requirement. The [current release is can be found at Github in English, French, Spanish and Japanese](https://github.com/OWASP/owasp-mstg/tree/master/Checklists).
+A checklist is available for use in security assessments that is based on the MASVS and MSTG and contains links to the MSTG test case for each requirement. The [current release can be found at Github in English, French, Spanish and Japanese](https://github.com/OWASP/owasp-mstg/tree/master/Checklists).
 
 ### Presentations
 
