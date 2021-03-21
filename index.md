@@ -71,7 +71,7 @@ A checklist is available for use in security assessments that is based on the MA
 
 Below you can find a list of upcoming and previous talks:
 
-- Ekoparty Security Conference, September 2020 - (Spanish) OWASP Mobile Project and how to use it for white hat hacking: [recording](https://www.youtube.com/watch?v=Son1elZ_0bw), [Slides](https://docs.google.com/presentation/d/1DLN5osuMjTi4hpanipCglUxYkH_gvitNyJjuv6s7SRk/edit?usp=sharing) 
+- Ekoparty Security Conference, September 2020 - (Spanish) OWASP Mobile Project and how to use it for white hat hacking: [Recording](https://www.youtube.com/watch?v=Son1elZ_0bw), [Slides](https://docs.google.com/presentation/d/1DLN5osuMjTi4hpanipCglUxYkH_gvitNyJjuv6s7SRk/edit?usp=sharing) 
 - OWASP Dutch Virtual chapther meetup, May 2020 [recording/livestream](https://youtu.be/cuB8TNT0rMw)
 - OWASP New Zealand Day, February 2020 - [Building Secure Mobile Apps (you don’t have to learn it the hard way!)](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2020#tab=Conference_-_21_February)
 - iOS Conf Singapore, January 2020 - Building Secure iOS Apps (you don’t have to learn it the hard way!) [Slides](http://bit.ly/2QRrSZ2), [Video](https://engineers.sg/video/building-secure-ios-apps-you-don-t-have-to-learn-it-the-hard-way-ios-conf-sg-2020--3932)
