@@ -6,6 +6,7 @@ tags: mstg
 level: 4
 url: "https://www2.owasp.org/www-project-mobile-security-testing-guide/"
 type: documentation
+pitch: The OWASP Mobile Security Testing Guide project consists of a series of documents that establish a security standard for mobile apps and a comprehensive testing guide that covers the processes, techniques, and tools used during a mobile app security test, as well as an exhaustive set of test cases that enables testers to deliver consistent and complete results.
 
 ---
 [![Creative Commons License](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0")
