@@ -23,7 +23,7 @@ If you'd like to support the Mobile Security Testing project we'll be happy to a
 When you click on the DONATE button and fill in the form be sure to verify that it has the line:
 "Publicly list me as a supporter of OWASP Mobile Security Testing Guide"
 
-<img align="right" style="padding: 10px;" width="500px" src="assets/images/donation_form.png" />
+<img style="padding: 10px;" width="500px" src="assets/images/donation_form.png" />
 
 > Please note that the OWASP Donation Policy has changed since 22-Sept-2020. All details can be found in [OWASP Donations Policy](https://owasp.org/www-policy/operational/donations) page.
 
