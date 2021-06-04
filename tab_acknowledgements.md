@@ -81,9 +81,11 @@ Reviewers have consistently provided useful feedback through GitHub issues and p
 
 Many other contributors have committed small amounts of content, such as a single word or sentence (less than 50 additions). The full list of contributors is available on [GitHub](https://github.com/OWASP/owasp-mstg/graphs/contributors "Contributors").
 
-### Sponsors
+### Donators
 
-While both the MASVS and the MSTG are created and maintained by the community on a voluntary basis, sometimes a little bit of outside help is required. We therefore thank our sponsors for providing the funds to be able to hire technical editors. Note that their sponsorship does not influence the content of the MASVS or MSTG in any way. The sponsorship packages are described on the [Sponsorship page](#tab_sponshorship.md "OWASP Mobile Security Testing Guide Sponsorship Packages").
+While both the MASVS and the MSTG are created and maintained by the community on a voluntary basis, sometimes a little bit of outside help is required. We therefore thank our donators for providing the funds to support us on our project activities. The Donation Packages are described on the [Donation page](#tab_donate.md).
+
+**The OWASP Foundation is very grateful for the support by the individuals and organizations listed. However please note, the OWASP Foundation is strictly vendor neutral and does not endorse any of its supporters. Donations does not influence the content of the MASVS or MSTG in any way.**
 
 #### Honorable Benefactor
 
