@@ -31,26 +31,27 @@ When you click on the DONATE button and fill in the form be sure to verify that 
 
 If you'd like to opt-in for a Donation Package please contact [Sven Schleier](mailto:sven.schleier@owasp.org) or [Carlos Holguera](mailto:carlos.holguera@owasp.org) to verify your donation. We will then, together with the OWASP Foundation verify and process it.
 
-> These types of public recognition shall be online no less than one year, or in the case of Project no less than the next major release, whichever is greater.
+> These types of public recognition shall be online no less than one year, or in the case of Project no less than the next major release, whichever is greater. Some Donation Packages have a maximum duration, once reached the logos will be removed and the donator will still be listed as supporter on the project website, GitHub and in the printed and digital versions. This can be renewed anytime.
 
 ### Good Samaritan (USD 500)
 
-- Listed as supporter on the project website and GitHub
-- Listed as supporter in the printed and ebook versions.
-- 5 Paperback Books.
+- Listed as supporter on the project website and GitHub.
+- Listed as supporter in the printed and digital versions.
+- Optional: 1 Paperback Books.
 
 ### Honourable Benefactor (USD 2,000 / 8 Available)
 
 - Small company logo in the “Honourable Benefactors” section on project website and Github.
 - Small company logo on the supporter page of the printed and digital versions.
-- 10 Paperback Books.
+- Duration: 2 years.
+- Optional: 3 Paperback Books.
 
 ### God Mode Sponsor (USD 4,000 / 5 Available)
 
 - Large company logo in the “God mode sponsors” section on project website and Github.
 - Large company logo on the supporter page of the printed and digital versions.
-- 20 Paperback Books.
-
+- Duration: 3 years.
+- Optional: 5 Paperback Books.
 
 ## Other Forms of Donation
 
