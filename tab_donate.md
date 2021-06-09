@@ -38,7 +38,7 @@ If you'd like to opt-in for a Donation Package please contact [Sven Schleier](ma
 - Listed as supporter on the project website and GitHub.
 - Listed as supporter in the printed and digital versions (without logo).
 - Duration: 1 year
-- Optional: 1 Paperback Books
+- Optional: 1 Paperback Book
 
 ### Honourable Benefactor (USD 2,000 / 8 Available)
 
