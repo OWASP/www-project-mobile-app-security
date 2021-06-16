@@ -36,22 +36,23 @@ If you'd like to opt-in for a Donation Package please contact [Sven Schleier](ma
 ### Good Samaritan (USD 500)
 
 - Listed as supporter on the project website and GitHub.
-- Listed as supporter in the printed and digital versions.
-- Optional: 1 Paperback Books.
+- Listed as supporter in the printed and digital versions (without logo).
+- Duration: 1 year
+- Optional: 1 Paperback Book
 
 ### Honourable Benefactor (USD 2,000 / 8 Available)
 
 - Small company logo in the “Honourable Benefactors” section on project website and Github.
 - Small company logo on the supporter page of the printed and digital versions.
-- Duration: 2 years.
-- Optional: 3 Paperback Books.
+- Duration: 2 years
+- Optional: 3 Paperback Books
 
 ### God Mode Sponsor (USD 4,000 / 5 Available)
 
 - Large company logo in the “God mode sponsors” section on project website and Github.
 - Large company logo on the supporter page of the printed and digital versions.
-- Duration: 3 years.
-- Optional: 5 Paperback Books.
+- Duration: 3 years
+- Optional: 5 Paperback Books
 
 ## Other Forms of Donation
 
