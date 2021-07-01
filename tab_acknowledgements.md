@@ -87,17 +87,20 @@ While both the MASVS and the MSTG are created and maintained by the community on
 
 **The OWASP Foundation is very grateful for the support by the individuals and organizations listed. However please note, the OWASP Foundation is strictly vendor neutral and does not endorse any of its supporters. Donations does not influence the content of the MASVS or MSTG in any way.**
 
-#### Honorable Benefactor
-
-[![NowSecure](assets/images/nowsecure_logo.png)](https://www.nowsecure.com/ "NowSecure")
+### God Mode Donators
 
 [OWASP Bay Area Chapter](https://twitter.com/OWASPBayArea?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor "Twitter Bay Area")
+#### Honorable Benefactor
+
+<img src="assets/images/nowsecure_logo.png" width="250" />
+
+<img src="assets/images/SEC_Consult_logo.png" width="205" />
 
 #### Good Samaritan Benefactor
 
-[![RandoriSec](assets/images/Randorisec_logo.png)](https://www.randorisec.fr/ "RandoriSec")
+<img src="assets/images/Randorisec_logo.png" width="150" />
 
-#### Donators
+#### Other Donators
 
 The following people and/or companies have donated more than $25 using Leanpub or other ways:
 

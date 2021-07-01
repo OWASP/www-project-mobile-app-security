@@ -47,9 +47,9 @@ If you'd like to opt-in for a Donation Package please contact [Sven Schleier](ma
 - Duration: 2 years
 - Optional: 3 Paperback Books
 
-### God Mode Sponsor (USD 4,000 / 5 Available)
+### God Mode Donator (USD 4,000 / 5 Available)
 
-- Large company logo in the “God mode sponsors” section on project website and Github.
+- Large company logo in the “God mode donators section on project website and Github.
 - Large company logo on the supporter page of the printed and digital versions.
 - Duration: 3 years
 - Optional: 5 Paperback Books
