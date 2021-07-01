@@ -89,13 +89,15 @@ While both the MASVS and the MSTG are created and maintained by the community on
 
 #### Honorable Benefactor
 
-[![NowSecure](assets/images/nowsecure_logo.png)](https://www.nowsecure.com/ "NowSecure")
+<img src="assets/images/nowsecure_logo.png" width="250" />
+
+<img src="assets/images/SEC_Consult_logo.png" width="205" />
 
 [OWASP Bay Area Chapter](https://twitter.com/OWASPBayArea?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor "Twitter Bay Area")
 
 #### Good Samaritan Benefactor
 
-[![RandoriSec](assets/images/Randorisec_logo.png)](https://www.randorisec.fr/ "RandoriSec")
+<img src="assets/images/Randorisec_logo.png" width="150" />
 
 #### Donators
 
