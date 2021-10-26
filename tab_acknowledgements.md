@@ -96,6 +96,8 @@ While both the MASVS and the MSTG are created and maintained by the community on
 
 <img src="assets/images/SEC_Consult_logo.png" width="205" />
 
+<img src="assets/images/ZIMPERIUM_logo.png" width="250" />
+
 #### Good Samaritan Benefactor
 
 <img src="assets/images/Randorisec_logo.png" width="150" />
