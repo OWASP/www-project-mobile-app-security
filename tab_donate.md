@@ -18,18 +18,29 @@ If you'd like to support the Mobile Security Testing project we'll be happy to a
 - Improving our automated delivery pipelines.
 - Acquiring new test devices if certain tests can not be executed on existing emulators/simulators/test devices.
 
-**You may do an online donation directly from the OWASP website by clicking the DONATE button above.**
+## Steps
+
+### Make your Donation
+
+Make your donation directly from the OWASP website by clicking the **DONATE** button above.
 
 When you click on the DONATE button and fill in the form be sure to verify that it has the line:
-"Publicly list me as a supporter of OWASP Mobile Security Testing Guide"
+> "Publicly list me as a supporter of OWASP Mobile Security Testing Guide"
 
-<img style="padding: 10px;" width="500px" src="assets/images/donation_form.png" />
+<img style="padding: 10px;" width="500px" src="assets/images/owasp_donation_form.png" />
+
+### Register your Donation Package (optional)
+
+If you'd like to opt-in for a Donation Package please fill out the [MSTG Donation Form](https://github.com/OWASP/owasp-mstg/issues/new?assignees=cpholguera%2Csushi2k&labels=org%2Cdonation&template=make-donation.yml&title=%F0%9F%92%B2%F0%9F%8E%89+New+Donation) (which will create a new Issue in the MSTG).
+<img style="padding: 10px;" width="500px" src="assets/images/mstg_donation_form.png" />
+
+Once the issue is created, please copy its URL and send it to [Sven Schleier](mailto:sven.schleier@owasp.org) or [Carlos Holguera](mailto:carlos.holguera@owasp.org) to verify your donation. We will then, together with the OWASP Foundation verify and process it.
 
 > Please note that the OWASP Donation Policy has changed since 22-Sept-2020. All details can be found in [OWASP Donations Policy](https://owasp.org/www-policy/operational/donations) page.
 
 ## Donation Packages
 
-If you'd like to opt-in for a Donation Package please contact [Sven Schleier](mailto:sven.schleier@owasp.org) or [Carlos Holguera](mailto:carlos.holguera@owasp.org) to verify your donation. We will then, together with the OWASP Foundation verify and process it.
+
 
 > These types of public recognition shall be online no less than one year, or in the case of Project no less than the next major release, whichever is greater. Some Donation Packages have a maximum duration, once reached the logos will be removed and the donator will still be listed as supporter on the project website, GitHub and in the printed and digital versions. This can be renewed anytime.
 
@@ -40,9 +51,9 @@ If you'd like to opt-in for a Donation Package please contact [Sven Schleier](ma
 - Duration: 1 year
 - Optional: 1 Paperback Book
 
-### Honourable Benefactor (USD 2,000 / 8 Available)
+### Honorable Benefactor (USD 2,000 / 8 Available)
 
-- Small company logo in the “Honourable Benefactors” section on project website and Github.
+- Small company logo in the “Honorable Benefactors” section on project website and Github.
 - Small company logo on the supporter page of the printed and digital versions.
 - Duration: 2 years
 - Optional: 3 Paperback Books

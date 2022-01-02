@@ -4,5 +4,6 @@
 * [Sven Schleier](mailto://sven.schleier@owasp.org) (Twitter: [@bsd_daemon](https://twitter.com/bsd_daemon))
 
 ### Past Leaders
+
 * Jeroen Willemsen
 * Bernhard Mueller
