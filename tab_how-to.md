@@ -6,6 +6,8 @@ order: 1
 tags: mstg
 ---
 
+# How-Tos
+
 ## Using the OWASP Mobile App Security Verification Standard, Testing Guide and Checklist
 
 The documents produced in this project cover many aspects of mobile application security, from the high-level requirements to the nitty-gritty implementation details and test cases. They can be used to plan and verify security controls during any phase of mobile app development, as well as during pre-release code review and penetration testing.

@@ -28,8 +28,8 @@
 
 ### Changelog
 
-- [Latest Changelog MSTG](https://github.com/OWASP/owasp-mstg/blob/master/CHANGELOG.md "MSTG changelog")
-- [Latest Changelog MASVS](https://github.com/OWASP/owasp-masvs/blob/master/CHANGELOG.md "MASVS changelog")
+- [Latest Changelog MSTG](https://github.com/OWASP/owasp-mstg/releases/latest)
+- [Latest Changelog MASVS](https://github.com/OWASP/owasp-masvs/releases/latest)
 
 ### Getting involved
 
