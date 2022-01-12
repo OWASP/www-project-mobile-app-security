@@ -75,7 +75,7 @@ Below you can find a list of upcoming and previous talks:
 | Date  |  Event |  Title | Recording  | Slides  |
 |---|---|---|---|---|
 | November 2021 | NSConnect | MASVS & MSTG Refactoring | [Recording](https://events.bizzabo.com/NSConnect21/agenda/session/634089) | [Slides](https://drive.google.com/file/d/18-SMIDaNFPKHK8V6wWQqvj0UTu4toteQ/view?usp=sharing) |
-| September 2021 | OWASP 20th Anniversary | MASVS & MSTG Refactoring | coming soon... | [Slides](https://drive.google.com/file/d/1UAloD0oGn9sVcMc5qPkjfKDtyUlH46tp/view?usp=sharing) |
+| September 2021 | OWASP 20th Anniversary | MASVS & MSTG Refactoring | [coming soon...](https://youtu.be/DFkCiNE2-MY) | [Slides](https://drive.google.com/file/d/1UAloD0oGn9sVcMc5qPkjfKDtyUlH46tp/view?usp=sharing) |
 | September 2020 | Ekoparty Security Conference | (Spanish) OWASP Mobile Project and how to use it for white hat hacking | [Recording](https://www.youtube.com/watch?v=Son1elZ_0bw) | [Slides](https://docs.google.com/presentation/d/1DLN5osuMjTi4hpanipCglUxYkH_gvitNyJjuv6s7SRk/edit?usp=sharing) 
 | May 2020 | OWASP Dutch Virtual chapther meetup | MSTG Update | [Recording](https://youtu.be/cuB8TNT0rMw?t=1999) | N/A |
 | February 2020 | OWASP New Zealand Day | Building Secure Mobile Apps (you don’t have to learn it the hard way!) | [info](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2020#tab=Conference_-_21_February) | |
