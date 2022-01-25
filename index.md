@@ -56,9 +56,13 @@ We now have versions in the following languages:
 - Chinese (simplified)
 - English
 - French
+- Farsi
 - German
+- Hindi
 - Japanese
 - Korean
+- Portuguese (Brazil)
+- Portuguese (Portugal)
 - Russian
 - Spanish
 
