@@ -101,31 +101,8 @@ While both the MASVS and the MSTG are created and maintained by the community on
 
 **The OWASP Foundation is very grateful for the support by the individuals and organizations listed. However please note, the OWASP Foundation is strictly vendor neutral and does not endorse any of its supporters. Donations does not influence the content of the MASVS or MSTG in any way.**
 
-### God Mode Donators
-
-[OWASP Bay Area Chapter](https://twitter.com/OWASPBayArea?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor "Twitter Bay Area")
 <br><br>
-
-<img src="assets/images/Donators/NowSecure_logo.png" width="350" />
-
-<br><br>
-
-### Honorable Benefactor
-
-<br><br>
-
-<img src="assets/images/Donators/SEC_Consult_logo.png" width="250" />
-
-<br><br>
-
-<img src="assets/images/Donators/ZIMPERIUM_logo.png" width="250" />
-
-<br><br>
-
-### Good Samaritan Benefactor
-
-<br><br>
-<img src="assets/images/Donators/Randorisec_logo.png" width="150" />
+<img src="assets/images/Donators/donators.png"/>
 <br><br>
 
 ## Older Versions
