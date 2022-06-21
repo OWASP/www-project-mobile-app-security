@@ -17,7 +17,7 @@ pitch: The OWASP Mobile Security Testing Guide project consists of a series of d
 [![MSTG release](https://img.shields.io/github/v/release/OWASP/owasp-mstg?label=MSTG%20release%20version)](https://github.com/OWASP/owasp-mstg/releases)
 [![MASVS release](https://img.shields.io/github/v/release/OWASP/owasp-masvs?label=MASVS%20release%20version)](https://github.com/OWASP/owasp-masvs/releases)
 
-<img align="right" style="padding: 10px;" width="180px" src="assets/images/logo_circle.png" />
+<img align="right" style="padding: 10px;" width="300px" src="assets/images/logo_circle.png" />
 
 ## Our Mision
 
@@ -25,7 +25,7 @@ pitch: The OWASP Mobile Security Testing Guide project consists of a series of d
 
 This OWASP flagship project provides a security standard for mobile apps (OWASP MASVS) and a comprehensive testing guide (OWASP MSTG) that covers the processes, techniques, and tools used during a mobile app security test, as well as an exhaustive set of test cases that enables testers to deliver consistent and complete results.
 
-<br>
+<br><br><br>
 
 ## Trusted by ...
 
