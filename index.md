@@ -39,10 +39,12 @@ The OWASP MASVS and MSTG are trusted by the following platform providers and sta
 
 <a href="https://github.com/OWASP/owasp-masvs/"><img src="https://github.com/OWASP/owasp-mstg/blob/master/Document/Images/GitHub_logo.png" width="14px"> GitHub Repo</a>
 
-The OWASP MASVS is, as the name implies, a standard for mobile app security. It can be used by mobile software architects and developers seeking to develop secure mobile applications, as well as security testers to ensure completeness and consistency of test results.
+The OWASP MASVS is a standard for mobile app security. It can be used by mobile software architects and developers seeking to develop secure mobile applications, as well as security testers to ensure completeness and consistency of test results.
 
 - 📖 [Read the MASVS on Gitbook](https://mobile-security.gitbook.io/masvs/) (English Version, see more languages [here](https://github.com/OWASP/owasp-masvs#masvs-translations))
 - ⬇️ [Download the latest PDF](https://github.com/OWASP/owasp-masvs/releases/latest)
+
+<br><br><br>
 
 ### OWASP Mobile Security Testing Guide (MSTG)
 
@@ -56,6 +58,8 @@ The OWASP MSTG is a comprehensive manual for mobile app security testing and rev
 - ⬇️ [Download the latest PDF](https://github.com/OWASP/owasp-mstg/releases/latest)
 
 Feel free to [download the EPUB or Mobi](https://leanpub.com/mobile-security-testing-guide) for any amount you like. All funds raised through sales of this book go directly into the project budget and will be used to for technical editing and designing the book and fund production of future releases.
+
+<br><br>
 
 ### Mobile App Security Checklist
 
