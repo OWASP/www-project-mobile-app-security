@@ -44,7 +44,7 @@ The OWASP MASVS is a standard for mobile app security. It can be used by mobile 
 - 📖 [Read the MASVS on Gitbook](https://mobile-security.gitbook.io/masvs/) (English Version, see more languages [here](https://github.com/OWASP/owasp-masvs#masvs-translations))
 - ⬇️ [Download the latest PDF](https://github.com/OWASP/owasp-masvs/releases/latest)
 
-<br><br><br>
+<br><br><br><br>
 
 ### OWASP Mobile Security Testing Guide (MSTG)
 
@@ -67,14 +67,14 @@ A checklist is available for use in security assessments based on the MASVS and 
 
 <img src="assets/images/checklist_en_filled.png" />
 
-<br><br>
+<br><br><br>
 
 ### Presentations
 
 Below you can find a list of upcoming and previous talks:
 
 | Date  |  Event |  Title | Recording  | Slides  |
-|---|------|----------------|----|----|
+|---|-------|------------------|----|----|
 | June 2022 | OWASP AppSec EU | “Mobile Wanderlust”! Our journey to Version 2.0! | N/A | [Slides](https://drive.google.com/file/d/1XD29n2Rtu3hEjcm235ZqQpelQ0sJvgTw/view?usp=sharing) |
 | February 2022 | OWASP Toronto | Insider's Guide to Mobile AppSec with OWASP MASVS | [Recording](https://youtu.be/qddf7MSpdK4) | N/A |
 | November 2021 | NSConnect | MASVS & MSTG Refactoring | [Recording](https://events.bizzabo.com/NSConnect21/agenda/session/634089) | [Slides](https://drive.google.com/file/d/18-SMIDaNFPKHK8V6wWQqvj0UTu4toteQ/view?usp=sharing) |
