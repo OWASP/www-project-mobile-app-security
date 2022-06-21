@@ -17,69 +17,78 @@ pitch: The OWASP Mobile Security Testing Guide project consists of a series of d
 [![MSTG release](https://img.shields.io/github/v/release/OWASP/owasp-mstg?label=MSTG%20release%20version)](https://github.com/OWASP/owasp-mstg/releases)
 [![MASVS release](https://img.shields.io/github/v/release/OWASP/owasp-masvs?label=MASVS%20release%20version)](https://github.com/OWASP/owasp-masvs/releases)
 
-## Our Vision
+## Our Mision
 
 ### "Define the industry standard for mobile application security."
 
-We are writing a security standard for mobile apps and a comprehensive testing guide that covers the processes, techniques, and tools used during a mobile app security test, as well as an exhaustive set of test cases that enables testers to deliver consistent and complete results.
+This OWASP flagship project provides a security standard for mobile apps (OWASP MASVS) and a comprehensive testing guide (OWASP MSTG) that covers the processes, techniques, and tools used during a mobile app security test, as well as an exhaustive set of test cases that enables testers to deliver consistent and complete results.
+
+<br>
+
+## Trusted by ...
+
+The OWASP MASVS and MSTG are trusted by the following platform providers and standardization, governmental and educational institutions. [Learn more](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x02b-MASVS-MSTG-Adoption.md).
+
+<a href="https://github.com/OWASP/owasp-mstg/blob/master/Document/0x02b-MASVS-MSTG-Adoption.md">
+<img src="https://github.com/OWASP/owasp-mstg/blob/master/Document/Images/Other/trusted-by-logos.png"/>
+</a>
+
+<br>
 
 ## Main Deliverables
 
-### Mobile Security Testing Guide (MSTG)
+### OWASP Mobile Application Security Verification Standard (MASVS)
 
-<img align="right" style="padding: 10px;" width="220px" src="assets/images/mstg-cover-release-small.jpg" />
+<img align="right" style="padding: 10px;" width="200px" src="assets/images/masvs-mini-cover.png" />
 
-The MSTG is a comprehensive manual for mobile app security testing and reverse engineering for iOS and Android mobile security testers with the following content:
+<a href="https://github.com/OWASP/owasp-masvs/"><img src="https://github.com/OWASP/owasp-mstg/blob/master/Document/Images/GitHub_logo.png" width="14px"> GitHub Repo</a>
 
-- Mobile platform internals
-- Security testing in the mobile app development lifecycle
-- Basic static and dynamic security testing
-- Mobile app reverse engineering and tampering
-- Assessing software protections
-- Detailed test cases that map to the requirements in the MASVS.
+The OWASP MASVS is a standard for mobile app security. It can be used by mobile software architects and developers seeking to develop secure mobile applications, as well as security testers to ensure completeness and consistency of test results.
 
-You can contribute and comment in the [GitHub Repo](https://github.com/OWASP/owasp-mstg). An online book version of the current master branch is available on [Gitbook](https://mobile-security.gitbook.io/mobile-security-testing-guide/).
+- 📖 [Read the MASVS on Gitbook](https://mobile-security.gitbook.io/masvs/) (English Version, see more languages [here](https://github.com/OWASP/owasp-masvs#masvs-translations))
+- ⬇️ [Download the latest PDF](https://github.com/OWASP/owasp-masvs/releases/latest)
 
-Feel free to [download the EPUB or Mobi](https://leanpub.com/mobile-security-testing-guide) for $0 or contribute any amount you like. All funds raised through sales of this book go directly into the project budget and will be used to for technical editing and designing the book and fund production of future releases.
+<br><br><br><br>
 
-### Mobile App Security Requirements and Verification
+### OWASP Mobile Security Testing Guide (MSTG)
 
-<img align="right" style="padding: 10px;" width="220px" src="assets/images/masvs-mini-cover.png" />
+<img align="right" style="padding: 10px;" width="200px" src="assets/images/mstg-cover-release-small.jpg" />
 
-The OWASP Mobile Application Security Verification Standard (MASVS) is, as the name implies, a standard for mobile app security. It can be used by mobile software architects and developers seeking to develop secure mobile applications, as well as security testers to ensure completeness and consistency of test results.
+<a href="https://github.com/OWASP/owasp-mstg/"><img src="https://github.com/OWASP/owasp-mstg/blob/master/Document/Images/GitHub_logo.png" width="14px"> GitHub Repo</a>
 
-You can contribute and comment in the [GitHub Repo](https://github.com/OWASP/owasp-masvs). An online book version of the current master branch is available on [Gitbook](https://mobile-security.gitbook.io/masvs/).
+The OWASP MSTG is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the controls listed in the [OWASP Mobile Application Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs).
 
-We now have versions in the following languages:
+- 📖 [Read it on Gitbook](https://mobile-security.gitbook.io/mobile-security-testing-guide/)
+- ⬇️ [Download the latest PDF](https://github.com/OWASP/owasp-mstg/releases/latest)
 
-- Chinese (traditional)
-- Chinese (simplified)
-- English
-- French
-- Farsi
-- German
-- Hindi
-- Japanese
-- Korean
-- Portuguese (Brazil)
-- Portuguese (Portugal)
-- Russian
-- Spanish
+Feel free to [download the EPUB or Mobi](https://leanpub.com/mobile-security-testing-guide) for any amount you like. All funds raised through sales of this book go directly into the project budget and will be used to for technical editing and designing the book and fund production of future releases.
 
-Want to get a PDF/Mobi/EPUB of the standard? Check the [release page](https://github.com/OWASP/owasp-masvs/releases/) on Github.
+<br><br>
 
 ### Mobile App Security Checklist
 
-A checklist is available for use in security assessments based on the MASVS and MSTG. It contains links to the MSTG test case for each MASVS requirement. The [current release can be found at Github in all MASVS languages](https://github.com/OWASP/owasp-mstg/releases/latest).
+<img align="right" style="padding: 10px;" width="350px" src="assets/images/checklist_en_filled.png" />
 
-<img src="assets/images/checklist_en_filled.png" />
+<a href="https://github.com/OWASP/owasp-mstg/releases/latest"><img src="https://github.com/OWASP/owasp-mstg/blob/master/Document/Images/GitHub_logo.png" width="14px"> Get them from the OWASP MSTG GitHub Repo Releases</a>
+
+A checklist is available for use in security assessments based on the MASVS and MSTG. It contains links to the MSTG test case for each MASVS requirement.
+
+Its features include:
+
+- Unifies all MASVS categories into a single sheet
+- Traceable via exact MASVS and MSTG versions and commit IDs
+- Always up to date with the latest MSTG and MASVS versions
+- Enables user to add more columns or sheets as needed
+- Multi language
+
+<br><br>
 
 ### Presentations
 
 Below you can find a list of upcoming and previous talks:
 
 | Date  |  Event |  Title | Recording  | Slides  |
-|---|---|---|---|---|
+|---|-------|------------------|----|----|
 | June 2022 | OWASP AppSec EU | “Mobile Wanderlust”! Our journey to Version 2.0! | N/A | [Slides](https://drive.google.com/file/d/1XD29n2Rtu3hEjcm235ZqQpelQ0sJvgTw/view?usp=sharing) |
 | February 2022 | OWASP Toronto | Insider's Guide to Mobile AppSec with OWASP MASVS | [Recording](https://youtu.be/qddf7MSpdK4) | N/A |
 | November 2021 | NSConnect | MASVS & MSTG Refactoring | [Recording](https://events.bizzabo.com/NSConnect21/agenda/session/634089) | [Slides](https://drive.google.com/file/d/18-SMIDaNFPKHK8V6wWQqvj0UTu4toteQ/view?usp=sharing) |
