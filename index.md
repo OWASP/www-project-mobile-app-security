@@ -67,9 +67,9 @@ Feel free to [download the EPUB or Mobi](https://leanpub.com/mobile-security-tes
 
 ### Mobile App Security Checklist
 
-A checklist is available for use in security assessments based on the MASVS and MSTG. It contains links to the MSTG test case for each MASVS requirement. The [current release can be found at Github in all MASVS languages](https://github.com/OWASP/owasp-mstg/releases/latest).
+<img align="right" style="padding: 10px;" width="250px" src="assets/images/checklist_en_filled.png" />
 
-<img src="assets/images/checklist_en_filled.png" />
+A checklist is available for use in security assessments based on the MASVS and MSTG. It contains links to the MSTG test case for each MASVS requirement. The [current release can be found at Github in all MASVS languages](https://github.com/OWASP/owasp-mstg/releases/latest).
 
 <br><br><br>
 
