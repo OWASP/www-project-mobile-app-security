@@ -28,7 +28,7 @@ If you are interested, do the following:
 
 1. Go through the open issues in our Github repo with the tag [#StayHome](https://github.com/OWASP/owasp-mstg/issues?q=is%3Aissue+is%3Aopen+label%3AStayHome).
 
-2. Make a comment in the issue that you would like to take care of it, which will be assigned on a first come first serve basis. For any clarifications you can ping either Carlos or Sven in OWASP Slack. If you don't have an account yet, please check here on how to register.
+2. Make a comment on the issue that you would like to take care of, which will be assigned on a first come first serve basis. For any clarifications you can ping either Carlos or Sven in OWASP Slack. If you don't have an account yet, please check here on how to register.
 
 3. Work on the issue and create a Pull Request (PR). If you are new to Git(hub), check out our [contribution guide](https://github.com/OWASP/owasp-mstg/blob/master/CONTRIBUTING.md#how-to-contribute) for further details.
 
@@ -36,7 +36,7 @@ If you are interested, do the following:
 
 5. Start at 1. :-)
 
-We would love to have you as contributor. Feel free to share the mail or like our tweet
+We would love to have you as a contributor. Feel free to share the mail or like our tweet
 
 Stay safe, take care and #StayHome!
 
@@ -58,7 +58,7 @@ Thanks to the great support of our community we have now 9 different languages a
 - Russian - Eugen Martynov, Gall Maxim, Chelnokov Vladislav (Review), Oprya Egor (Review) and Tereshin Dmitry (Review)
 - Spanish - Martin Marsicano and Carlos Holguera
 
-The MASVS and its translations are availabe in PDF, Mobile, ePub, docx and you can also read it via Gitbook. See here for details: <https://github.com/OWASP/owasp-masvs#getting-the-masvs>
+The MASVS and its translations are available in PDF, Mobile, ePub, docx and you can also read it via Gitbook. See here for details: <https://github.com/OWASP/owasp-masvs#getting-the-masvs>
 
 The project team (Sven Schleier, Jeroen Willemsen and Carlos Holguera) would like to thank all the contributors, translators and those who build the improved automation around it and all their hard work and support in the last few months! New releases will be much faster thanks to our GitHub actions and Docker containers. Next to that, we are happy to add Korean and Chinese Simplified to our ever growing list of translations! We will finalize the document generation system and then apply the same build system to the Mobile Security Testing Guide (MSTG) in order to speed up the release process and release more frequently.
 
@@ -76,15 +76,15 @@ We are joining the #hacktoberfest October 2-31. Check out our issues [at Github]
 
 ## September 17th, 2019: Xamarin experiment!
 
-We have launched a react-native experiment based on our compliancy checklist. Want to teach others how to validate React Native apps against the MASVS? Check this [Google sheet](https://drive.google.com/open?id=1UL1yLRREJwXfe0HlrcX-IuvPYQM7lTtG)!
+We have launched a react-native experiment based on our compliance checklist. Want to teach others how to validate React Native apps against the MASVS? Check this [Google sheet](https://drive.google.com/open?id=1UL1yLRREJwXfe0HlrcX-IuvPYQM7lTtG)!
 
 ## September 6th, 2019: Flutter experiment!
 
-We have launched a react-native experiment based on our compliancy checklist. Want to teach others how to validate React Native apps against the MASVS? Check this [Google sheet](https://drive.google.com/open?id=1wHK3VI1cU1xmYrCu9yb5OHKUEeLIPSkC)!
+We have launched a react-native experiment based on our compliance checklist. Want to teach others how to validate React Native apps against the MASVS? Check this [Google sheet](https://drive.google.com/open?id=1wHK3VI1cU1xmYrCu9yb5OHKUEeLIPSkC)!
 
 ## September 6th, 2019: React native experiment!
 
-We have launched a react-native experiment based on our compliancy checklist. Want to teach others how to validate React Native apps against the MASVS? Check this [Google sheet](https://drive.google.com/open?id=1P5FZ_Bup5eSPOmkePZA8cIpKGOKvngkN)!
+We have launched a react-native experiment based on our compliance checklist. Want to teach others how to validate React Native apps against the MASVS? Check this [Google sheet](https://drive.google.com/open?id=1P5FZ_Bup5eSPOmkePZA8cIpKGOKvngkN)!
 
 ## August 29th, 2019: Carlos Holguera joins the leader team
 
@@ -112,35 +112,35 @@ After many changes, we decided it was time to create a new release in order to i
 
 ## April 15th, 2019: Book version, project promotion & preparation for the summit
 
-Given that most news is already shared via OWASP Slack over the last quarter, we still see that it is good to share a summary of all of the good things outside of Slack using this news section. In this update we have a lot to share! While we started off this year with an improved version of the MASVS and MSTG, things have not been quiet: there has been a huge development in master of the MSTG and many issues have been raised and fixed. In the meantime, we have worked on an actual print of the book! While an early version is available through Hulu (no link supplied, google and buy at your own risk), we are working on making a better version of that book. In the mean time we have filed for a project promotion to Flagship! Next a lot more cool things happened: with the now official publication of [NIST Special Publication (SP) 800-163 Revision 1](https://csrc.nist.gov/news/2019/nist-publishes-sp-800-163-rev-1), the MASVS and MSTG are getting more mainstream ;-). The MASVS & MSTG are mentioned in various other upcoming programs/standards/recommendations as well, which is really a recognition of the hard work put in by the community. We are proud to be part of such a great project! Next, we are preparing to join the [Open Security Summit](https://opensecsummit.org/tracks/mobile/) again! Already three people will be on site, and at least one remoting, but we would love to work with more people at the project again! Want to know more? Please get in touch via Slack and join the #project-mobile_omtg channel or follow us on [Twitter](https://twitter.com/OWASP_MSTG).
+Given that most news is already shared via OWASP Slack over the last quarter, we still see that it is good to share a summary of all of the good things outside of Slack using this news section. In this update we have a lot to share! While we started off this year with an improved version of the MASVS and MSTG, things have not been quiet: there has been a huge development in master of the MSTG and many issues have been raised and fixed. In the meantime, we have worked on an actual print of the book! While an early version is available through Hulu (no link supplied, google and buy at your own risk), we are working on making a better version of that book. In the mean time we have filed for a project promotion to Flagship! Next a lot more cool things happened: with the now official publication of [NIST Special Publication (SP) 800-163 Revision 1](https://csrc.nist.gov/news/2019/nist-publishes-sp-800-163-rev-1), the MASVS and MSTG are getting more mainstream ;-). The MASVS & MSTG are mentioned in various other upcoming programs/standards/recommendations as well, which is really a recognition of the hard work put in by the community. We are proud to be part of such a great project! Next, we are preparing to join the [Open Security Summit](https://opensecsummit.org/tracks/mobile/) again! Already three people will be on site, and at least one remote, but we would love to work with more people at the project again! Want to know more? Please get in touch via Slack and join the #project-mobile_omtg channel or follow us on [Twitter](https://twitter.com/OWASP_MSTG).
 
 ## January 15th, 2019: Release of improved checklist
 
 We released a new version of the checklist! This version has adaptable references so that it can be used with newer versions of the MSTG as well. This version is currently available in French and English and we hope to add the Russian, Japanese, German and Spanish version soon! Want to know more? Take a look at [our release page](https://github.com/OWASP/owasp-mstg/releases/tag/1.1-excel)!. We would like to thank our volunteers for their effort to deliver these easy to use checklists!
 
-## January 3rd, 2019: Multilnaguage Release 1.1.2 of the MASVS
+## January 3rd, 2019: Multilanguage Release 1.1.2 of the MASVS
 
-We released the 1.1.2 version of the OWASP MAVS! This is the first version in Chinese, English, French, German, Japanese, Russian, and Spanish! Exactly: we just added French, German, Japanese and Chinese! Obviously this would not be possible without all the volunteers that helped us with translations, feedback, updating, and automating the release proces! We are grateful for the awesome team that pulled this off! Want to see the result? Take a look at [our release page](https://github.com/OWASP/owasp-masvs/releases/tag/1.1.2)!
+We released the 1.1.2 version of the OWASP MAVS! This is the first version in Chinese, English, French, German, Japanese, Russian, and Spanish! Exactly: we just added French, German, Japanese and Chinese! Obviously this would not be possible without all the volunteers that helped us with translations, feedback, updating, and automating the release process! We are grateful for the awesome team that pulled this off! Want to see the result? Take a look at [our release page](https://github.com/OWASP/owasp-masvs/releases/tag/1.1.2)!
 
 ## November 39th, 2018: Release 1.1.0 of the MSTG
 
 We released the 1.1.0 version of the OWASP MSTG! Now all requirements of the MASVS have at least one covering testcase. We would like to thank all of our contributors for their hard work! Want to check it out? [Check the releases](https://github.com/OWASP/owasp-masvs/releases)!.
 
-## Oktober 28th, 2018: Call for Company references
+## October 28th, 2018: Call for Company references
 
 We are looking for company references that are using or have used the OWASP-MSTG and/or MASVS. If you have done so and are ok with being mentioned: please email to sven.schleier@owasp.org.
 
-## Oktober 28th, 2018: The MASVS is getting more translations
+## October 28th, 2018: The MASVS is getting more translations
 
 Thanks to Romuald, Koki and many others, new translations of the MASVS are popping up. We now have a Japanese translation added and the French, German and Persian translations are in development. Each of them will be released the moment our release-automation of the MASVS is completed. Until then: feel free to checkout the sources!
 
-## Oktober 18th, 2018: The MSTG is now officially an OWASP Lab Project!
+## October 18th, 2018: The MSTG is now officially an OWASP Lab Project!
 
 During AppSec US 2018 in San Jose the Mobile Security Testing Guide was reviewed by several volunteers to assess the maturity of the project. As a result our request for project graduation to lab status was granted. The reviews can be found [here](https://docs.google.com/a/owasp.org/document/d/1WiHln8igTE5noquodwWCo_VuRmvnpQtEhGV6z-P37EU/edit?usp=drive_web).
 
 Thanks to Harold Blankenship for organising the project review event during AppSec US and for pushing things forward for all the OWASP projects and of course to all people that took the effort to review our project!
 
-## Oktober 13th, 2018: MSTG 1.0.2 released & Twitter account!
+## October 13th, 2018: MSTG 1.0.2 released & Twitter account!
 
 While working hard towards the 1.1.0 milestone of the MSTG, we released the 1.0.2 version. From now onward we have better PDF, Epub and Mobi files! We hope to port this to the MASVS after the Github release. We now have an official Twitter account: [@OWASP_MSTG](https://twitter.com/OWASP_MSTG)!
 
@@ -158,7 +158,7 @@ The Mobile Security Testing Guide is now reference in [NIST SP 800-163 Revision 
 
 ## Augustus 2nd, 2018: Mobile App Security Verification Standard Releases
 
-A lot has happened & we are happy to announce that version 1.1 of the MASVS got released! Not just in English, but in Spanis and Russian as well. Want to know more? [check the releases](https://github.com/OWASP/owasp-masvs/releases)!. We would like to thank our Russian and Spanish speaking volunteers that have put quiet some effort in translating the document! Lastly, we would like to announce that not all minor version releases will be in this news-section, unless something really important changed. Do you want to have the latest version of the MASVS? Just check Github!
+A lot has happened & we are happy to announce that version 1.1 of the MASVS got released! Not just in English, but in Spanish and Russian as well. Want to know more? [check the releases](https://github.com/OWASP/owasp-masvs/releases)!. We would like to thank our Russian and Spanish speaking volunteers that have put quite some effort in translating the document! Lastly, we would like to announce that not all minor version releases will be in this news-section, unless something really important changed. Do you want to have the latest version of the MASVS? Just check Github!
 
 ## June 16th, 2018: Jeroen Willemsen joins as project lead
 

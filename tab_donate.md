@@ -9,7 +9,7 @@ tags: mstg
 
 # Donations
 
-If you'd like to support the Mobile Security Testing project we'll be happy to accept your donations. You may donate 5, 500, 5000 (UDS/EUR/GBP) or any custom amount. Certain amounts allow you to opt-in for a "[Donation Package](#donation-packages)" (see below).
+If you'd like to support the Mobile Security Testing project we'll be happy to accept your donations. You may donate 5, 500, 5000 (USD/EUR/GBP) or any custom amount. Certain amounts allow you to opt-in for a "[Donation Package](#donation-packages)" (see below).
 
 100% of the funds raised go directly to the OWASP foundation and allow us to ask for budget to fund our project activities:
 
@@ -34,20 +34,18 @@ When you click on the DONATE button and fill in the form be sure to verify that 
 If you'd like to opt-in for a Donation Package please fill out the [MSTG Donation Form](https://github.com/OWASP/owasp-mstg/issues/new?assignees=cpholguera%2Csushi2k&labels=org%2Cdonation&template=make-donation.yml&title=%F0%9F%92%B2%F0%9F%8E%89+New+Donation) (which will create a new Issue in the MSTG).
 <img style="padding: 10px;" width="500px" src="assets/images/mstg_donation_form.png" />
 
-Once the issue is created, please copy its URL and send it to [Sven Schleier](mailto:sven.schleier@owasp.org) or [Carlos Holguera](mailto:carlos.holguera@owasp.org) to verify your donation. We will then, together with the OWASP Foundation verify and process it.
+Once the issue is created, please copy its URL and send it to [Sven Schleier](mailto:sven.schleier@owasp.org) or [Carlos Holguera](mailto:carlos.holguera@owasp.org) to verify your donation. We will then, together with the OWASP Foundation, verify and process it.
 
 > Please note that the OWASP Donation Policy has changed since 22-Sept-2020. All details can be found in [OWASP Donations Policy](https://owasp.org/www-policy/operational/donations) page.
 
 ## Donation Packages
 
-
-
 > These types of public recognition shall be online no less than one year, or in the case of Project no less than the next major release, whichever is greater. Some Donation Packages have a maximum duration, once reached the logos will be removed and the donator will still be listed as supporter on the project website, GitHub and in the printed and digital versions. This can be renewed anytime.
 
 ### Good Samaritan (USD 500)
 
-- Listed as supporter on the project website and GitHub.
-- Listed as supporter in the printed and digital versions (without logo).
+- Listed as a supporter on the project website and GitHub.
+- Listed as a supporter in the printed and digital versions (without logo).
 - Duration: 1 year
 - Optional: 1 Paperback Book
 
