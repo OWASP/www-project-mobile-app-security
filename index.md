@@ -21,7 +21,7 @@ pitch: The OWASP Mobile Security Testing Guide project consists of a series of d
 
 <img align="right" style="padding: 10px;" width="250px" src="assets/images/logo_circle.png" />
 
-## Our Mision
+## Our Mission
 
 ### "Define the industry standard for mobile application security."
 
