@@ -99,6 +99,7 @@ Below you can find a list of upcoming and previous talks:
 
 | Date | Event | Title | Recording | Slides |
 |---|-------|------------------|-----|-----|
+| June 2022 | OWASP Tunisia | Securing Mobile Apps with the MASVS. Our Journey to v2.0 | [Recording](https://www.youtube.com/watch?v=mQbYm1UKNXE) | [Slides](https://drive.google.com/file/d/1EhRjS8eW8s-RrQRatFXnsoZqNYTZsHm0/view?usp=sharing) |
 | June 2022 | OWASP AppSec EU | “Mobile Wanderlust”! Our journey to Version 2.0! | N/A | [Slides](https://drive.google.com/file/d/1XD29n2Rtu3hEjcm235ZqQpelQ0sJvgTw/view?usp=sharing) |
 | February 2022 | OWASP Toronto | Insider's Guide to Mobile AppSec with OWASP MASVS | [Recording](https://youtu.be/qddf7MSpdK4) | N/A |
 | November 2021 | NSConnect | MASVS & MSTG Refactoring | [Recording](https://events.bizzabo.com/NSConnect21/agenda/session/634089) | [Slides](https://drive.google.com/file/d/18-SMIDaNFPKHK8V6wWQqvj0UTu4toteQ/view?usp=sharing) |
