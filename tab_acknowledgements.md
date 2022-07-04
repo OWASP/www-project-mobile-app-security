@@ -49,7 +49,7 @@ MSTG Advocates are industry adopters of the OWASP MASVS and MSTG who have invest
 <br>
 
 <a href="https://github.com/OWASP/owasp-mstg/blob/master/Document/0x02c-Acknowledgements.md#our-mstg-advocates">
-<img src="Document/Images/Other/nowsecure-logo.png" width="200px;" />
+<img src="https://raw.githubusercontent.com/OWASP/owasp-mstg/master/Document/Images/Other/nowsecure-logo.png" width="200px;" />
 </a>
 
 <br><br>
