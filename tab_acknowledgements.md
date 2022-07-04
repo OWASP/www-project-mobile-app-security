@@ -42,7 +42,23 @@ Jeroen is a mobile security lead responsible for quality assurance on mobile sec
 
 Vikas is an experienced cyber security researcher, with expertise in mobile security. In his career he has worked to secure applications for various industries including fintech, banks and governments. He enjoys reverse engineering, especially obfuscated native code and cryptography. He holds masters in security and mobile computing, and an OSCP certification. He is always open to share his knowledge and exchange ideas.
 
-## Top Contributors
+## 🥇 MSTG Advocates
+
+MSTG Advocates are industry adopters of the OWASP MASVS and MSTG who have invested a significant and consistent amount of resources to push the project forward by providing consistent high-impact contributions and continuously spreading the word. [Learn more](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x02c-Acknowledgements.md#our-mstg-advocates).
+
+<br>
+
+<a href="https://github.com/OWASP/owasp-mstg/blob/master/Document/0x02c-Acknowledgements.md#our-mstg-advocates">
+<img src="Document/Images/Other/nowsecure-logo.png" width="200px;" />
+</a>
+
+<br><br>
+
+## MSTG Contributors
+
+**Note**: This contributor table is generated based on our [GitHub contribution statistics](https://github.com/OWASP/owasp-mstg/graphs/contributors "GitHub contribution statistics"). For more information on these stats, see the [GitHub Repository README](https://github.com/OWASP/owasp-mstg/blob/master/README.md "GitHub Repository README"). We manually update the table, so be patient if you're not listed immediately.
+
+### Top Contributors
 
 Top contributors have consistently contributed quality content and have at least 500 additions logged in the GitHub repository.
 
@@ -63,19 +79,13 @@ Top contributors have consistently contributed quality content and have at least
 - Bolot Kerimbaev
 - Lukasz Wierzbicki
 
-## Contributors
+### Contributors
 
 Contributors have contributed quality content and have at least 50 additions logged in the GitHub repository. Their Github handle is listed below:
 
 kryptoknight13, DarioI, luander, oguzhantopgul, Osipion, mpishu, pmilosev, isher-ux, thec00n, ssecteam, jay0301, magicansk, jinkunong, nick-epson, caitlinandrews, dharshin, raulsiles, righettod, karolpiateknet, mkaraoz, Sjord, bugwrangler, jasondoyle, joscandreu, yog3shsharma, ryantzj, rylyade1, shivsahni, diamonddocumentation, 51j0, AnnaSzk, hlhodges, legik, abjurato, serek8, mhelwig, locpv-ibl and ThunderSon.
 
-## Mini Contributors
-
-Many other contributors have committed small amounts of content, such as a single word or sentence (less than 50 additions). Their Github handle is listed below:
-
-jonasw234, zehuanli, jadeboer, Isopach, prabhant, jhscheer, meetinthemiddle-be, bet4it, aslamanver, juan-dambra, OWASP-Seoul, hduarte, TommyJ1994, forced-request, D00gs, vasconcedu, mehradn7, whoot, LucasParsy, DotDotSlashRepo, enovella, ionis111, vishalsodani, chame1eon, allRiceOnMe, crazykid95, Ralireza, Chan9390, tamariz-boop, abhaynayar, camgaertner, EhsanMashhadi, fujiokayu, decidedlygray, Ali-Yazdani, Fi5t, MatthiasGabriel, colman-mbuya and anyashka.
-
-## Reviewers
+### Reviewers
 
 Reviewers have consistently provided useful feedback through GitHub issues and pull request comments.
 
@@ -83,17 +93,13 @@ Reviewers have consistently provided useful feedback through GitHub issues and p
 - Sjoerd Langkemper
 - Anant Shrivastava
 
-## Editors
+### Editors
 
 - Heaven Hodges
 - Caitlin Andrews
 - Nick Epson
 - Anita Diamond
 - Anna Szkudlarek
-
-### Others
-
-Many other contributors have committed small amounts of content, such as a single word or sentence (less than 50 additions). The full list of contributors is available on [GitHub](https://github.com/OWASP/owasp-mstg/graphs/contributors "Contributors").
 
 ## Donators
 
