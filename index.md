@@ -119,6 +119,9 @@ While both the MASVS and the MSTG are created and maintained by the community on
 
 These projects are not part of the OWASP MAS project. Please contact the project leaders if you have any questions.
 
+<details>
+    <summary>See Archived projects</summary>
+
 | Project | Project Leaders | Description | Last Release |
 | --- | ----- | ----------------- | --- |
 | [Android CK](https://github.com/Flo354/Androick) | Florian Pradines | A python tool to help in forensics analysis on android. | 2014 |
@@ -126,3 +129,5 @@ These projects are not part of the OWASP MAS project. Please contact the project
 | [iGoat Tool Project](https://wiki.owasp.org/index.php/OWASP_iGoat_Tool_Project) | Swaroop Yermalkar | A learning tool for iOS developers (iPhone, iPad, etc.). It was inspired by the WebGoat project, and has a similar conceptual flow to it. | 2017 |
 | [Mobile Top Ten](https://wiki.owasp.org/index.php/OWASP_Mobile_Top_10) | Jason Haddix, Daniel Miessler, Jonathan Carter, Milan Singh Thakur | The OWASP Mobile Security top 10 is created to raise awareness for the current mobile security issues. Note that this project has not been migrated yet: See this archive site and this archive site for the older resources. | 2016 |
 | [Seraphimdroid](https://owasp.org/www-project-seraphimdroid/) | Nikola Milosevic, Kartik Kholi | A privacy and security protection app for Android devices. | 2016 |
+
+</details>
