@@ -4,12 +4,12 @@ layout: col-sidebar
 title: OWASP Mobile Application Security
 tags: mas
 level: 4
-url: "https://www.owasp.org/www-project-mobile-security-testing-guide/"
+url: "https://owasp.org/www-project-mobile-security-testing-guide/
 type: documentation
 pitch: The OWASP Mobile Application Security (MAS) project consists of a series of documents that establish a security standard for mobile apps and a comprehensive testing guide that covers the processes, techniques, and tools used during a mobile application security assessment, as well as an exhaustive set of test cases that enables testers to deliver consistent and complete results.
 
 ---
-[![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://www.owasp.org/index.php/Category:OWASP_Project#tab=Project_Inventory)
+[![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#owasp-project-inventory-256)
 ![Github stars MASTG](https://img.shields.io/github/stars/OWASP/owasp-mstg?label=Stars%20MSTG&style=social)
 ![Github stars MASVS](https://img.shields.io/github/stars/OWASP/owasp-masvs?label=Stars%20MASVS&style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/OWASP_MSTG.svg?style=social&label=Follow)](https://twitter.com/OWASP_MSTG)
