@@ -43,7 +43,7 @@ The OWASP MASVS and MSTG are trusted by the following platform providers and sta
 
 <br>
 
-<a href="https://github.com/OWASP/owasp-masvs/discussions/categories/big-masvs-refactoring"><img align="right" style="padding: 10px;" width="200px" src="assets/images/masvs-progress.png"></a>
+<a href="https://github.com/OWASP/owasp-masvs/discussions/categories/big-masvs-refactoring"><img align="right" style="padding: 10px;" width="200px" src="assets/images/masvs-cover.png"></a>
 
 ### OWASP Mobile Application Security Verification Standard (MASVS)
 
@@ -59,7 +59,7 @@ The OWASP MASVS is a standard for mobile app security. It can be used by mobile 
 
 ### OWASP Mobile Application Security Testing Guide (MASTG)
 
-<img align="right" style="padding: 10px;" width="185px" src="assets/images/mstg-cover-release-small.jpg" />
+<img align="right" style="padding: 10px;" width="185px" src="assets/images/mastg-cover.png" />
 
 The OWASP MASTG is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the controls listed in the [OWASP Mobile Application Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs).
 
