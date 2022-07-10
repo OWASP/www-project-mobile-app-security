@@ -15,19 +15,20 @@
 
 ### Downloads
 
-- [Download MASTG](https://github.com/OWASP/owasp-mstg/releases)
-- [Download MASVS](https://github.com/OWASP/owasp-masvs/releases)
-- [Download MAS Checklist](https://github.com/OWASP/owasp-mstg/releases)
+- [⬇️ Download MASTG](https://github.com/OWASP/owasp-mstg/releases)
+- [⬇️ Download MASVS](https://github.com/OWASP/owasp-masvs/releases)
+- [⬇️ Download MAS Checklist](https://github.com/OWASP/owasp-mstg/releases)
 
 ### More
 
-- [Talks](https://github.com/OWASP/owasp-mstg/blob/master/docs/talks.md)
-- [Acknowledgements](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x02c-Acknowledgements.md)
-- [Questions/Feedback?](https://github.com/OWASP/owasp-mstg/discussions)
+- [📢 News](https://github.com/OWASP/owasp-mstg/blob/master/docs/news.md)
+- [🗣️ Talks](https://github.com/OWASP/owasp-mstg/blob/master/docs/talks.md)
+- [🙏 Acknowledgements](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x02c-Acknowledgements.md)
+- [💬 Questions/Feedback?](https://github.com/OWASP/owasp-mstg/discussions)
 - [Code of Conduct](https://github.com/OWASP/owasp-mstg/blob/master/CODE_OF_CONDUCT.md)
 - [Contributing to MASVS](https://github.com/OWASP/owasp-masvs/blob/master/CONTRIBUTING.md)
 - [Contributing to MASTG](https://github.com/OWASP/owasp-mstg/blob/master/CONTRIBUTING.md)
 
 ### Licensing
 
-The guide is licensed under the [Creative Commons Attribution-ShareAlike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/), so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+[![Creative Commons License](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0")
