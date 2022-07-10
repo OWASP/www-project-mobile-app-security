@@ -24,7 +24,7 @@ pitch: The OWASP Mobile Application Security (MAS) project consists of a series 
 
 ### "Define the industry standard for mobile application security."
 
-This OWASP flagship project provides a security standard for mobile apps (OWASP MASVS) and a comprehensive testing guide (OWASP MASTG) that covers the processes, techniques, and tools used during a mobile app security test, as well as an exhaustive set of test cases that enables testers to deliver consistent and complete results.
+This OWASP flagship project provides a security standard for mobile apps (OWASP MASVS), a comprehensive testing guide (OWASP MASTG) and a checklist bringing everything together. Together they provide  that covers during a mobile app security assessment in order to deliver consistent and complete results.
 
 <br><br><br>
 
@@ -46,7 +46,7 @@ The OWASP MASVS and MSTG are trusted by the following platform providers and sta
 
 ### OWASP Mobile Application Security Verification Standard (MASVS)
 
-The OWASP MASVS is a standard for mobile app security. It can be used by mobile software architects and developers seeking to develop secure mobile applications, as well as security testers to ensure completeness and consistency of test results.
+The OWASP MASVS is the industry standard for mobile app security. It can be used by mobile software architects and developers seeking to develop secure mobile applications, as well as security testers to ensure completeness and consistency of test results.
 
 <br>
 
@@ -60,7 +60,9 @@ The OWASP MASVS is a standard for mobile app security. It can be used by mobile 
 
 <img align="right" style="padding: 10px;" width="250px" src="assets/images/mastg-cover.png" />
 
-The OWASP MASTG is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the controls listed in the [OWASP Mobile Application Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs).
+The OWASP MASTG is a comprehensive manual for mobile appplication security testing. A fundamental learning resource for both begginers and professionals covering a variety of topics from mobile OS internals to advanced reverse engineering techniques.
+
+It also provides an exhaustive set of test cases to be used for verifying the controls listed in the OWASP MASVS, including all relevant guidance and detailed information about the technical processes, techniques and tools.
 
 <br>
 
@@ -78,7 +80,7 @@ Feel free to [download the EPUB or Mobi](https://leanpub.com/mobile-security-tes
 
 <img align="right" style="padding: 10px;" width="350px" src="assets/images/checklist_en_filled.png" />
 
-A checklist is available for use in security assessments based on the MASVS and MSTG. It contains links to the MSTG test case for each MASVS requirement.
+The Mobile Application Security Checklist can be used to apply the MASVS controls during security assessments as it conveniently links to the corresponding MASTG test cases.
 
 - <a href="https://github.com/OWASP/owasp-mstg/releases/latest"><img src="assets/images/GitHub_logo.png" width="18px"> GitHub Repo (MASTG Releases)</a>
 
