@@ -120,7 +120,7 @@ While both the MASVS and the MSTG are created and maintained by the community on
 These projects are not part of the OWASP MAS project. Please contact the project leaders if you have any questions.
 
 | Project | Project Leaders | Description | Last Release |
-| --- | ----- | ----------------- |
+| --- | ----- | ----------------- | --- |
 | [Android CK](https://github.com/Flo354/Androick) | Florian Pradines | A python tool to help in forensics analysis on android. | 2014 |
 | [Damn Vulnerable iOS Application](https://damnvulnerableiosapp.com/) | Prateek Gianchandani | An iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals or students to test their iOS penetration testing skills in a legal environment. | 2018 |
 | [iGoat Tool Project](https://wiki.owasp.org/index.php/OWASP_iGoat_Tool_Project) | Swaroop Yermalkar | A learning tool for iOS developers (iPhone, iPad, etc.). It was inspired by the WebGoat project, and has a similar conceptual flow to it. | 2017 |
