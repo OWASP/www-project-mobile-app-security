@@ -60,7 +60,7 @@ The OWASP MASVS is the industry standard for mobile app security. It can be used
 
 <img align="right" style="padding: 10px;" width="250px" src="assets/images/mastg-cover.png" />
 
-The OWASP MASTG is a comprehensive manual for mobile appplication security testing. A fundamental learning resource for both begginers and professionals covering a variety of topics from mobile OS internals to advanced reverse engineering techniques.
+The OWASP MASTG is a comprehensive manual for mobile application security testing. A fundamental learning resource for both beginners and professionals covering a variety of topics from mobile OS internals to advanced reverse engineering techniques.
 
 It also provides an exhaustive set of test cases to be used for verifying the controls listed in the OWASP MASVS, including all relevant guidance and detailed information about the technical processes, techniques and tools.
 
