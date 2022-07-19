@@ -30,7 +30,7 @@ This OWASP flagship project provides a security standard for mobile apps (OWASP 
 
 ## Trusted by ...
 
-The OWASP MASVS and MSTG are trusted by the following platform providers and standardization, governmental and educational institutions. [Learn more](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x02b-MASVS-MSTG-Adoption.md).
+The OWASP MASVS and MASTG are trusted by the following platform providers and standardization, governmental and educational institutions. [Learn more](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x02b-MASVS-MSTG-Adoption.md).
 
 <a href="https://github.com/OWASP/owasp-mstg/blob/master/Document/0x02b-MASVS-MSTG-Adoption.md">
 <img src="assets/images/trusted-by-logos.png"/>
@@ -44,9 +44,9 @@ The OWASP MASVS and MSTG are trusted by the following platform providers and sta
 
 <a href="https://github.com/OWASP/owasp-masvs/discussions/categories/big-masvs-refactoring"><img align="right" style="padding: 10px;" width="250px" src="assets/images/masvs-cover.png"></a>
 
-### OWASP Mobile Application Security Verification Standard (MASVS)
+### OWASP MASVS
 
-The OWASP MASVS is the industry standard for mobile app security. It can be used by mobile software architects and developers seeking to develop secure mobile applications, as well as security testers to ensure completeness and consistency of test results.
+The OWASP Mobile Application Security Verification Standard (MASVS) is the industry standard for mobile app security. It can be used by mobile software architects and developers seeking to develop secure mobile applications, as well as security testers to ensure completeness and consistency of test results.
 
 <br>
 
@@ -56,11 +56,11 @@ The OWASP MASVS is the industry standard for mobile app security. It can be used
 
 <br><br><br><br>
 
-### OWASP Mobile Application Security Testing Guide (MASTG)
+### OWASP MASTG
 
 <img align="right" style="padding: 10px;" width="250px" src="assets/images/mastg-cover.png" />
 
-The OWASP MASTG is a comprehensive manual for mobile application security testing. A fundamental learning resource for both beginners and professionals covering a variety of topics from mobile OS internals to advanced reverse engineering techniques.
+The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile application security testing. A fundamental learning resource for both beginners and professionals covering a variety of topics from mobile OS internals to advanced reverse engineering techniques.
 
 It also provides an exhaustive set of test cases to be used for verifying the controls listed in the OWASP MASVS, including all relevant guidance and detailed information about the technical processes, techniques and tools.
 
@@ -76,7 +76,7 @@ Feel free to [download the EPUB or Mobi](https://leanpub.com/mobile-security-tes
 
 <br><br>
 
-### Mobile App Security Checklist
+### Mobile Application Security Checklist
 
 <img align="right" style="padding: 10px;" width="350px" src="assets/images/checklist_en_filled.png" />
 
@@ -87,16 +87,16 @@ The Mobile Application Security Checklist can be used to apply the MASVS control
 Its features include:
 
 - Unifies all MASVS categories into a single sheet
-- Traceable via exact MASVS and MSTG versions and commit IDs
-- Always up to date with the latest MSTG and MASVS versions
+- Traceable via exact MASVS and MASTG versions and commit IDs
+- Always up to date with the latest MASTG and MASVS versions
 - Enables user to add more columns or sheets as needed
 - Multi language
 
 <br><br>
 
-## 🥇 MSTG Advocates
+## 🥇 MAS Advocates
 
-MSTG Advocates are industry adopters of the OWASP MASVS and MSTG who have invested a significant and consistent amount of resources to push the project forward by providing consistent high-impact contributions and continuously spreading the word. [Learn more](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x02c-Acknowledgements.md#our-mstg-advocates).
+MAS Advocates are industry adopters of the OWASP MASVS and MASTG who have invested a significant and consistent amount of resources to push the project forward by providing consistent high-impact contributions and continuously spreading the word. [Learn more](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x02c-Acknowledgements.md#our-mstg-advocates).
 
 <br>
 
@@ -108,9 +108,9 @@ MSTG Advocates are industry adopters of the OWASP MASVS and MSTG who have invest
 
 ## Donators
 
-While both the MASVS and the MSTG are created and maintained by the community on a voluntary basis, sometimes a little bit of outside help is required. We therefore thank our donators for providing the funds to support us on our project activities. The Donation Packages are described on the [Donation page](https://github.com/OWASP/owasp-mstg/blob/master/docs/donate.md).
+While both the MASVS and the MASTG are created and maintained by the community on a voluntary basis, sometimes a little bit of outside help is required. We therefore thank our donators for providing the funds to support us on our project activities. The Donation Packages are described on the [Donation page](https://github.com/OWASP/owasp-mstg/blob/master/docs/donate.md).
 
-**The OWASP Foundation is very grateful for the support by the individuals and organizations listed. However please note, the OWASP Foundation is strictly vendor neutral and does not endorse any of its supporters. Donations do not influence the content of the MASVS or MSTG in any way.**
+**The OWASP Foundation is very grateful for the support by the individuals and organizations listed. However please note, the OWASP Foundation is strictly vendor neutral and does not endorse any of its supporters. Donations do not influence the content of the MASVS or MASTG in any way.**
 
 <br><br>
 <img src="assets/images/Donators/donators.png"/>
