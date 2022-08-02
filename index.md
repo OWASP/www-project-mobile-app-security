@@ -60,7 +60,7 @@ The OWASP Mobile Application Security Verification Standard (MASVS) is the indus
 
 <img align="right" style="padding: 10px;" width="250px" src="assets/images/mastg-cover.png" />
 
-<p color: gray; font-style: italic;>Previously known as OWASP MSTG (Mobile Security Testing Guide)</p>
+_Previously known as OWASP MSTG (Mobile Security Testing Guide)_
 
 The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile application security testing. A fundamental learning resource for both beginners and professionals covering a variety of topics from mobile OS internals to advanced reverse engineering techniques.
 
