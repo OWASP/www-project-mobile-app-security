@@ -24,7 +24,7 @@ pitch: The OWASP Mobile Application Security (MAS) project consists of a series 
 
 ### "Define the industry standard for mobile application security."
 
-This OWASP flagship project provides a security standard for mobile apps (OWASP MASVS), a comprehensive testing guide (OWASP MASTG) and a checklist bringing everything together. Together they provide  that covers during a mobile app security assessment in order to deliver consistent and complete results.
+The OWASP Mobile Application Security (MAS) flagship project provides a security standard for mobile apps (OWASP MASVS), a comprehensive testing guide (OWASP MASTG) and a checklist bringing everything together. Together they provide  that covers during a mobile app security assessment in order to deliver consistent and complete results.
 
 <br><br><br>
 
@@ -117,3 +117,7 @@ While both the MASVS and the MASTG are created and maintained by the community o
 <br><br>
 <img src="assets/images/Donators/donators.png"/>
 <br><br>
+
+### Presentations
+
+You can find a list of our talks in our [Talks page in GitHub](https://github.com/OWASP/owasp-mstg/blob/master/docs/talks.md).
