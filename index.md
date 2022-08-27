@@ -12,7 +12,7 @@ pitch: The OWASP Mobile Application Security (MAS) project consists of a series 
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#owasp-project-inventory-256)
 ![Github stars MASTG](https://img.shields.io/github/stars/OWASP/owasp-mstg?label=Stars%20MSTG&style=social)
 ![Github stars MASVS](https://img.shields.io/github/stars/OWASP/owasp-masvs?label=Stars%20MASVS&style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/OWASP_MSTG.svg?style=social&label=Follow)](https://twitter.com/OWASP_MSTG)
+[![Twitter Follow](https://img.shields.io/twitter/follow/OWASP_MAS.svg?style=social&label=Follow)](https://twitter.com/OWASP_MAS)
 [![MASTG release](https://img.shields.io/github/v/release/OWASP/owasp-mstg?label=MSTG%20release%20version)](https://github.com/OWASP/owasp-mstg/releases)
 [![MASVS release](https://img.shields.io/github/v/release/OWASP/owasp-masvs?label=MASVS%20release%20version)](https://github.com/OWASP/owasp-masvs/releases)
 
