@@ -15,19 +15,18 @@
 
 ### Downloads
 
-- [⬇️ Download MASTG](https://github.com/OWASP/owasp-mstg/releases)
+- [⬇️ Download MASTG](https://github.com/OWASP/owasp-mastg/releases)
 - [⬇️ Download MASVS](https://github.com/OWASP/owasp-masvs/releases)
-- [⬇️ Download MAS Checklist](https://github.com/OWASP/owasp-mstg/releases)
+- [⬇️ Download MAS Checklist](https://github.com/OWASP/owasp-mastg/releases)
 
 ### More
 
-- [📢 News](https://github.com/OWASP/owasp-mstg/blob/master/docs/news.md)
-- [🗣️ Talks](https://github.com/OWASP/owasp-mstg/blob/master/docs/talks.md)
-- [🙏 Acknowledgements](https://github.com/OWASP/owasp-mstg/blob/master/Document/0x02c-Acknowledgements.md)
-- [💬 Questions/Feedback?](https://github.com/OWASP/owasp-mstg/discussions)
-- [Code of Conduct](https://github.com/OWASP/owasp-mstg/blob/master/CODE_OF_CONDUCT.md)
-- [Contributing to MASVS](https://github.com/OWASP/owasp-masvs/blob/master/CONTRIBUTING.md)
-- [Contributing to MASTG](https://github.com/OWASP/owasp-mstg/blob/master/CONTRIBUTING.md)
+- [📢 News](https://mas.owasp.org/news/)
+- [🗣️ Talks](https://mas.owasp.org/talks/)
+- [🙏 Acknowledgements](https://mas.owasp.org/MASTG/0x02c-Acknowledgements/)
+- [💬 Questions/Feedback?](https://github.com/OWASP/owasp-mastg/discussions)
+- [Code of Conduct](https://github.com/OWASP/owasp-mastg/blob/master/CODE_OF_CONDUCT.md)
+- [Contributing](https://mas.owasp.org/contributing/1_How_Can_You_Contribute/)
 
 ### Licensing
 
