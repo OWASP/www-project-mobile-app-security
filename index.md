@@ -30,9 +30,7 @@ All the information about OWASP MAS can be found in the [official website](https
 
 <br>
 <center>
-<a href="https://mas.owasp.org/">
-<img width="250px" src="assets/images/open_website.png"/>
-</a>
+<a href="https://mas.owasp.org/" class="cta-button"><b>Open Website</b><br>mas.owasp.org</a>
 </center>
 
 <br><br>
