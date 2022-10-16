@@ -88,7 +88,7 @@ It also provides an exhaustive set of test cases to be used for verifying the co
 <br>
 
 - <a href="https://github.com/OWASP/owasp-mastg/"><img src="assets/images/GitHub_logo.png" width="18px"> GitHub Repo</a>
-- 📖 [Read it](https://mas.owasp.org/MASTG/Intro/0x01-Foreword/)
+- 📖 [Read it](https://mas.owasp.org/MASTG/)
 - ⬇️ [Download the latest PDF](https://github.com/OWASP/owasp-mastg/releases/latest)
 
 <br>
