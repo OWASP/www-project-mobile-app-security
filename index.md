@@ -37,9 +37,9 @@ All the information about OWASP MAS can be found in the [official website](https
 
 ## Trusted by ...
 
-The OWASP MASVS and MASTG are trusted by the following platform providers and standardization, governmental and educational institutions. [Learn more](https://mas.owasp.org/MASTG/0x02b-MASVS-MASTG-Adoption/).
+The OWASP MASVS and MASTG are trusted by the following platform providers and standardization, governmental and educational institutions. [Learn more](https://mas.owasp.org/MASTG/Intro/0x02b-MASVS-MASTG-Adoption/).
 
-<a href="https://mas.owasp.org/MASTG/0x02b-MASVS-MASTG-Adoption/">
+<a href="https://mas.owasp.org/MASTG/Intro/0x02b-MASVS-MASTG-Adoption/">
 <img src="assets/images/trusted-by-logos.png"/>
 </a>
 
@@ -47,11 +47,11 @@ The OWASP MASVS and MASTG are trusted by the following platform providers and st
 
 ## 🥇 MAS Advocates
 
-MAS Advocates are industry adopters of the OWASP MASVS and MASTG who have invested a significant and consistent amount of resources to push the project forward by providing consistent high-impact contributions and continuously spreading the word. [Learn more](https://mas.owasp.org/MASTG/0x02c-Acknowledgements/#our-mas-advocates).
+MAS Advocates are industry adopters of the OWASP MASVS and MASTG who have invested a significant and consistent amount of resources to push the project forward by providing consistent high-impact contributions and continuously spreading the word. [Learn more](https://mas.owasp.org/MASTG/Intro/0x02c-Acknowledgements/#our-mas-advocates).
 
 <br>
 
-<a href="https://mas.owasp.org/MASTG/0x02c-Acknowledgements/#our-mas-advocates">
+<a href="https://mas.owasp.org/MASTG/Intro/0x02c-Acknowledgements/#our-mas-advocates">
 <img src="https://raw.githubusercontent.com/OWASP/owasp-mastg/master/Document/Images/Other/nowsecure-logo.png" width="200px;" />
 </a>
 
@@ -70,7 +70,7 @@ The OWASP Mobile Application Security Verification Standard (MASVS) is the indus
 <br>
 
 - <a href="https://github.com/OWASP/owasp-masvs/"><img src="assets/images/GitHub_logo.png" width="18px"> GitHub Repo</a>
-- 📖 [Read it](https://mas.owasp.org/MASVS/0x01-Foreword/) (English Version, see more languages [here](https://github.com/OWASP/owasp-masvs#masvs-translations))
+- 📖 [Read it](https://mas.owasp.org/MASVS/)
 - ⬇️ [Download the latest PDF](https://github.com/OWASP/owasp-masvs/releases/latest)
 
 <br><br><br><br>
@@ -88,7 +88,7 @@ It also provides an exhaustive set of test cases to be used for verifying the co
 <br>
 
 - <a href="https://github.com/OWASP/owasp-mastg/"><img src="assets/images/GitHub_logo.png" width="18px"> GitHub Repo</a>
-- 📖 [Read it](https://mas.owasp.org/MASTG/0x01-Foreword/)
+- 📖 [Read it](https://mas.owasp.org/MASTG/)
 - ⬇️ [Download the latest PDF](https://github.com/OWASP/owasp-mastg/releases/latest)
 
 <br>

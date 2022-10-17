@@ -23,7 +23,7 @@
 
 - [📢 News](https://mas.owasp.org/news/)
 - [🗣️ Talks](https://mas.owasp.org/talks/)
-- [🙏 Acknowledgements](https://mas.owasp.org/MASTG/0x02c-Acknowledgements/)
+- [🙏 Acknowledgements](https://mas.owasp.org/MASTG/Intro/0x02c-Acknowledgements/)
 - [💬 Questions/Feedback?](https://github.com/OWASP/owasp-mastg/discussions)
 - [Code of Conduct](https://github.com/OWASP/owasp-mastg/blob/master/CODE_OF_CONDUCT.md)
 - [Contributing](https://mas.owasp.org/contributing/1_How_Can_You_Contribute/)
