@@ -24,7 +24,7 @@ pitch: The OWASP Mobile Application Security (MAS) project consists of a series 
 
 ### "Define the industry standard for mobile application security."
 
-The OWASP Mobile Application Security (MAS) flagship project provides a security standard for mobile apps (OWASP MASVS), a comprehensive testing guide (OWASP MASTG) and a checklist bringing everything together. Together they provide  that covers during a mobile app security assessment in order to deliver consistent and complete results.
+The OWASP Mobile Application Security (MAS) flagship project provides a security standard for mobile apps (OWASP MASVS) and a comprehensive testing guide (OWASP MASTG) that covers the processes, techniques, and tools used during a mobile app security test, as well as an exhaustive set of test cases that enables testers to deliver consistent and complete results.
 
 All the information about OWASP MAS can be found in the [official website](https://mas.owasp.org/). There you can also read both the MASVS and the MASTG.
 
@@ -61,7 +61,7 @@ MAS Advocates are industry adopters of the OWASP MASVS and MASTG who have invest
 
 <br>
 
-<a href="https://github.com/OWASP/owasp-masvs/discussions/categories/big-masvs-refactoring"><img align="right" style="padding: 10px;" width="250px" src="assets/images/masvs-cover.png"></a>
+<img align="right" style="padding: 10px;" width="250px" src="https://raw.githubusercontent.com/OWASP/owasp-mastg/master/docs/assets/masvs_cover.png">
 
 ### OWASP MASVS
 
@@ -77,7 +77,7 @@ The OWASP Mobile Application Security Verification Standard (MASVS) is the indus
 
 ### OWASP MASTG
 
-<img align="right" style="padding: 10px;" width="250px" src="assets/images/mastg-cover.png" />
+<img align="right" style="padding: 10px;" width="250px" src="https://raw.githubusercontent.com/OWASP/owasp-mastg/master/docs/assets/mastg_cover.png" />
 
 _Previously known as OWASP MSTG (Mobile Security Testing Guide)_
 
@@ -111,7 +111,6 @@ Its features include:
 - Traceable via exact MASVS and MASTG versions and commit IDs
 - Always up to date with the latest MASTG and MASVS versions
 - Enables user to add more columns or sheets as needed
-- Multi language
 
 <br><br>
 
@@ -122,7 +121,7 @@ While both the MASVS and the MASTG are created and maintained by the community o
 **The OWASP Foundation is very grateful for the support by the individuals and organizations listed. However please note, the OWASP Foundation is strictly vendor neutral and does not endorse any of its supporters. Donations do not influence the content of the MASVS or MASTG in any way.**
 
 <br><br>
-<img src="assets/images/Donators/donators.png"/>
+<img src="https://raw.githubusercontent.com/OWASP/owasp-mastg/master/Document/Images/Donators/donators.png"/>
 <br><br>
 
 ### Presentations
