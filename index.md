@@ -18,7 +18,7 @@ pitch: The OWASP Mobile Application Security (MAS) project consists of a series 
 
 <br>
 
-<img align="right" style="padding: 10px;" width="250px" src="assets/images/logo_circle.png" />
+<img align="right" style="padding: 10px;" width="250px" src="https://raw.githubusercontent.com/OWASP/owasp-mastg/master/docs/assets/logo_circle.png" />
 
 ## Our Mission
 
@@ -40,7 +40,7 @@ All the information about OWASP MAS can be found in the [official website](https
 The OWASP MASVS and MASTG are trusted by the following platform providers and standardization, governmental and educational institutions. [Learn more](https://mas.owasp.org/MASTG/Intro/0x02b-MASVS-MASTG-Adoption/).
 
 <a href="https://mas.owasp.org/MASTG/Intro/0x02b-MASVS-MASTG-Adoption/">
-<img src="assets/images/trusted-by-logos.png"/>
+<img src="https://raw.githubusercontent.com/OWASP/owasp-mastg/master/docs/assets/trusted-by-logos.png"/>
 </a>
 
 <br>
@@ -69,7 +69,7 @@ The OWASP Mobile Application Security Verification Standard (MASVS) is the indus
 
 <br>
 
-- <a href="https://github.com/OWASP/owasp-masvs/"><img src="assets/images/GitHub_logo.png" width="18px"> GitHub Repo</a>
+- <a href="https://github.com/OWASP/owasp-masvs/"><img src="https://raw.githubusercontent.com/OWASP/owasp-mastg/master/docs/assets/GitHub_logo.png" width="18px"> GitHub Repo</a>
 - 📖 [Read it](https://mas.owasp.org/MASVS/)
 - ⬇️ [Download the latest PDF](https://github.com/OWASP/owasp-masvs/releases/latest)
 
@@ -87,7 +87,7 @@ It also provides an exhaustive set of test cases to be used for verifying the co
 
 <br>
 
-- <a href="https://github.com/OWASP/owasp-mastg/"><img src="assets/images/GitHub_logo.png" width="18px"> GitHub Repo</a>
+- <a href="https://github.com/OWASP/owasp-mastg/"><img src="https://raw.githubusercontent.com/OWASP/owasp-mastg/master/docs/assets/GitHub_logo.png" width="18px"> GitHub Repo</a>
 - 📖 [Read it](https://mas.owasp.org/MASTG/)
 - ⬇️ [Download the latest PDF](https://github.com/OWASP/owasp-mastg/releases/latest)
 
@@ -99,11 +99,11 @@ Feel free to [download the EPUB or Mobi](https://leanpub.com/mobile-security-tes
 
 ### Mobile Application Security Checklist
 
-<img align="right" style="padding: 10px;" width="350px" src="assets/images/checklist_en_filled.png" />
+<img align="right" style="padding: 10px;" width="350px" src="https://raw.githubusercontent.com/OWASP/owasp-mastg/master/docs/assets/mas_checklist.png" />
 
 The Mobile Application Security Checklist can be used to apply the MASVS controls during security assessments as it conveniently links to the corresponding MASTG test cases.
 
-- <a href="https://github.com/OWASP/owasp-mastg/releases/latest"><img src="assets/images/GitHub_logo.png" width="18px"> GitHub Repo (MASTG Releases)</a>
+- <a href="https://github.com/OWASP/owasp-mastg/releases/latest"><img src="https://raw.githubusercontent.com/OWASP/owasp-mastg/master/docs/assets/GitHub_logo.png" width="18px"> GitHub Repo (MASTG Releases)</a>
 
 Its features include:
 
