@@ -45,4 +45,4 @@ Project maintainers who do not follow or enforce the Code of Conduct in good fai
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org "Contributor Covenant homepage"), [version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html "Code of Conduct version 1.4").
 
-For answers to common questions about this code of conduct, see [the Contributor Covenant FAQ](https://www.contributor-covenant.org/faq)
+For answers to common questions about this code of conduct, see [the Contributor Covenant FAQ](https://github.com/OWASP/owasp-mastg/blob/master/.github/CODE_OF_CONDUCT.md)
