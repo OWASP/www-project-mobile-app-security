@@ -6,25 +6,27 @@ tags: mas
 level: 4
 url: "https://owasp.org/www-project-mobile-app-security/"
 type: documentation
-pitch: The OWASP Mobile Application Security (MAS) project consists of a series of documents that establish a security standard for mobile apps and a comprehensive testing guide that covers the processes, techniques, and tools used during a mobile application security assessment, as well as an exhaustive set of test cases that enables testers to deliver consistent and complete results.
+pitch: The OWASP Mobile Application Security (MAS) project consists of a series of documents that establish a security and privacy standard for mobile apps and a comprehensive testing guide that covers the processes, techniques, and tools used during a mobile application security assessment, as well as an exhaustive set of test cases that enables testers to deliver consistent and complete results.
 
 ---
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#owasp-project-inventory-256)
-![Github stars MASTG](https://img.shields.io/github/stars/OWASP/owasp-mastg?label=Stars%20MSTG&style=social)
-![Github stars MASVS](https://img.shields.io/github/stars/OWASP/owasp-masvs?label=Stars%20MASVS&style=social)
+![Github stars MASTG](https://img.shields.io/github/stars/OWASP/mastg?label=Stars%20MSTG&style=social)
+![Github stars MASVS](https://img.shields.io/github/stars/OWASP/masvs?label=Stars%20MASVS&style=social)
+![Github stars MASWE](https://img.shields.io/github/stars/OWASP/maswe?label=Stars%20MASWE&style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/OWASP_MAS.svg?style=social&label=Follow)](https://twitter.com/OWASP_MAS)
-[![MASTG release](https://img.shields.io/github/v/release/OWASP/owasp-mastg?label=MSTG%20release%20version)](https://github.com/OWASP/owasp-mastg/releases)
-[![MASVS release](https://img.shields.io/github/v/release/OWASP/owasp-masvs?label=MASVS%20release%20version)](https://github.com/OWASP/owasp-masvs/releases)
+[![MASTG release](https://img.shields.io/github/v/release/OWASP/mastg?label=MSTG%20release%20version)](https://github.com/OWASP/mastg/releases)
+[![MASVS release](https://img.shields.io/github/v/release/OWASP/masvs?label=MASVS%20release%20version)](https://github.com/OWASP/masvs/releases)
+[![MASWE release](https://img.shields.io/github/v/release/OWASP/maswe?label=MASVS%20release%20version)](https://github.com/OWASP/maswe/releases)
 
 <br>
 
-<img align="right" style="padding: 10px;" width="250px" src="https://raw.githubusercontent.com/OWASP/owasp-mastg/master/docs/assets/logo_circle.png" />
+<img align="right" style="padding: 10px;" width="250px" src="https://raw.githubusercontent.com/OWASP/mastg/master/docs/assets/logo_circle.png" />
 
 ## Our Mission
 
 ### "Define the industry standard for mobile application security."
 
-The OWASP Mobile Application Security (MAS) flagship project provides a security standard for mobile apps (OWASP MASVS) and a comprehensive testing guide (OWASP MASTG) that covers the processes, techniques, and tools used during a mobile app security test, as well as an exhaustive set of test cases that enables testers to deliver consistent and complete results.
+The OWASP Mobile Application Security (MAS) flagship project provides a security and privacy standard for mobile apps (OWASP MASVS), a collection of mobile app-specific weaknesses (OWASP MASWE) and a comprehensive testing guide (OWASP MASTG) that covers the processes, techniques, and tools used during a mobile app security test, as well as an exhaustive set of test cases that enables testers to deliver consistent and complete results.
 
 All the information about OWASP MAS can be found in the [official website](https://mas.owasp.org/). There you can also read both the MASVS and the MASTG.
 
@@ -37,22 +39,22 @@ All the information about OWASP MAS can be found in the [official website](https
 
 ## Trusted by ...
 
-The OWASP MASVS and MASTG are trusted by the following platform providers and standardization, governmental and educational institutions. [Learn more](https://mas.owasp.org/MASTG/0x02b-MASVS-MASTG-Adoption/).
+The OWASP MASVS, MASWE and MASTG are trusted by the following platform providers and standardization, governmental and educational institutions. [Learn more](https://mas.owasp.org/MASTG/0x02b-MASVS-MASTG-Adoption/).
 
 <a href="https://mas.owasp.org/MASTG/0x02b-MASVS-MASTG-Adoption/">
-<img src="https://raw.githubusercontent.com/OWASP/owasp-mastg/master/docs/assets/trusted-by-logos.png"/>
+<img src="https://raw.githubusercontent.com/OWASP/mastg/master/docs/assets/trusted-by-logos.png"/>
 </a>
 
 <br>
 
 ## 🥇 MAS Advocates
 
-MAS Advocates are industry adopters of the OWASP MASVS and MASTG who have invested a significant and consistent amount of resources to push the project forward by providing consistent high-impact contributions and continuously spreading the word. [Learn more](https://mas.owasp.org/MASTG/0x02c-Acknowledgements/#our-mas-advocates).
+MAS Advocates are industry adopters of the OWASP MASVS, MASWE and MASTG who have invested a significant and consistent amount of resources to push the project forward by providing consistent high-impact contributions and continuously spreading the word. [Learn more](https://mas.owasp.org/MASTG/0x02c-Acknowledgements/#our-mas-advocates).
 
 <br>
 
 <a href="https://mas.owasp.org/MASTG/0x02c-Acknowledgements/#our-mas-advocates">
-<img src="https://raw.githubusercontent.com/OWASP/owasp-mastg/master/Document/Images/Other/nowsecure-logo.png" width="200px;" />
+<img src="https://raw.githubusercontent.com/OWASP/mastg/master/Document/Images/Other/nowsecure-logo.png" width="200px;" />
 </a>
 
 <br><br>
@@ -61,7 +63,7 @@ MAS Advocates are industry adopters of the OWASP MASVS and MASTG who have invest
 
 <br>
 
-<img align="right" style="padding: 10px;" width="250px" src="https://raw.githubusercontent.com/OWASP/owasp-mastg/master/docs/assets/masvs_cover.png">
+<img align="right" style="padding: 10px;" width="250px" src="https://raw.githubusercontent.com/OWASP/mastg/master/docs/assets/masvs_cover.png">
 
 ### OWASP MASVS
 
@@ -69,15 +71,28 @@ The OWASP Mobile Application Security Verification Standard (MASVS) is the indus
 
 <br>
 
-- <a href="https://github.com/OWASP/owasp-masvs/"><img src="https://raw.githubusercontent.com/OWASP/owasp-mastg/master/docs/assets/GitHub_logo.png" width="18px"> GitHub Repo</a>
+- <a href="https://github.com/OWASP/masvs/"><img src="https://raw.githubusercontent.com/OWASP/mastg/master/docs/assets/GitHub_logo.png" width="18px"> GitHub Repo</a>
 - 📖 [Read it](https://mas.owasp.org/MASVS/)
-- ⬇️ [Download the latest PDF](https://github.com/OWASP/owasp-masvs/releases/latest)
+- ⬇️ [Download the PDF](https://github.com/OWASP/masvs/releases/latest)
+
+<br><br><br><br>
+
+### OWASP MASWE
+
+<img align="right" style="padding: 10px;" width="250px" src="https://raw.githubusercontent.com/OWASP/mastg/master/docs/assets/maswe_cover.png">
+
+The OWASP Mobile Application Security Weakness Enumeration (MASWE) is a list of common security and privacy weaknesses in mobile applications. It is intended to be used as a reference for developers, security researchers, and security professionals. It acts as the bridge between the OWASP MASVS and the OWASP MASTG.
+
+<br>
+
+- <a href="https://github.com/OWASP/maswe/"><img src="https://raw.githubusercontent.com/OWASP/mastg/master/docs/assets/GitHub_logo.png" width="18px"> GitHub Repo</a>
+- 📖 [Read it](https://mas.owasp.org/MASWE/)
 
 <br><br><br><br>
 
 ### OWASP MASTG
 
-<img align="right" style="padding: 10px;" width="250px" src="https://raw.githubusercontent.com/OWASP/owasp-mastg/master/docs/assets/mastg_cover.png" />
+<img align="right" style="padding: 10px;" width="250px" src="https://raw.githubusercontent.com/OWASP/mastg/master/docs/assets/mastg_cover.png" />
 
 _Previously known as OWASP MSTG (Mobile Security Testing Guide)_
 
@@ -87,23 +102,18 @@ It also provides an exhaustive set of test cases to be used for verifying the co
 
 <br>
 
-- <a href="https://github.com/OWASP/owasp-mastg/"><img src="https://raw.githubusercontent.com/OWASP/owasp-mastg/master/docs/assets/GitHub_logo.png" width="18px"> GitHub Repo</a>
+- <a href="https://github.com/OWASP/mastg/"><img src="https://raw.githubusercontent.com/OWASP/mastg/master/docs/assets/GitHub_logo.png" width="18px"> GitHub Repo</a>
 - 📖 [Read it](https://mas.owasp.org/MASTG/)
-- ⬇️ [Download the latest PDF](https://github.com/OWASP/owasp-mastg/releases/latest)
-
-<br>
-
-Feel free to [download the EPUB or Mobi](https://leanpub.com/mobile-security-testing-guide) for any amount you like. All funds raised through sales of this book go directly into the project budget and will be used to for technical editing and designing the book and fund production of future releases.
 
 <br><br>
 
 ### Mobile Application Security Checklist
 
-<img align="right" style="padding: 10px;" width="350px" src="https://raw.githubusercontent.com/OWASP/owasp-mastg/master/docs/assets/mas_checklist.png" />
+<img align="right" style="padding: 10px;" width="350px" src="https://raw.githubusercontent.com/OWASP/mastg/master/docs/assets/mas_checklist.png" />
 
 The Mobile Application Security Checklist can be used to apply the MASVS controls during security assessments as it conveniently links to the corresponding MASTG test cases.
 
-- <a href="https://github.com/OWASP/owasp-mastg/releases/latest"><img src="https://raw.githubusercontent.com/OWASP/owasp-mastg/master/docs/assets/GitHub_logo.png" width="18px"> GitHub Repo (MASTG Releases)</a>
+- <a href="https://github.com/OWASP/mastg/releases/latest"><img src="https://raw.githubusercontent.com/OWASP/mastg/master/docs/assets/GitHub_logo.png" width="18px"> GitHub Repo (MASTG Releases)</a>
 
 Its features include:
 
@@ -121,7 +131,7 @@ While both the MASVS and the MASTG are created and maintained by the community o
 **The OWASP Foundation is very grateful for the support by the individuals and organizations listed. However please note, the OWASP Foundation is strictly vendor neutral and does not endorse any of its supporters. Donations do not influence the content of the MASVS or MASTG in any way.**
 
 <br><br>
-<img src="https://raw.githubusercontent.com/OWASP/owasp-mastg/master/Document/Images/Donators/donators.png"/>
+<img src="https://raw.githubusercontent.com/OWASP/mastg/master/Document/Images/Donators/donators.png"/>
 <br><br>
 
 ### Presentations
