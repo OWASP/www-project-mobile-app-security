@@ -20,7 +20,7 @@ pitch: The OWASP Mobile Application Security (MAS) project consists of a series 
 
 <br>
 
-<img align="right" style="padding: 10px;" width="250px" src="https://raw.githubusercontent.com/OWASP/mastg/master/docs/assets/logo_circle.png" />
+<img align="right" style="padding: 10px;" width="250px" src="https://raw.githubusercontent.com/OWASP/mastg/master/Document/Images/logo_circle.png" />
 
 ## Our Mission
 
@@ -42,7 +42,7 @@ All the information about OWASP MAS can be found in the [official website](https
 The OWASP MASVS, MASWE and MASTG are trusted by the following platform providers and standardization, governmental and educational institutions. [Learn more](https://mas.owasp.org/MASTG/0x02b-MASVS-MASTG-Adoption/).
 
 <a href="https://mas.owasp.org/MASTG/0x02b-MASVS-MASTG-Adoption/">
-<img src="https://raw.githubusercontent.com/OWASP/mastg/master/docs/assets/trusted-by-logos.png"/>
+<img src="https://raw.githubusercontent.com/OWASP/mastg/master/Document/Images/Other/trusted-by-logos.png"/>
 </a>
 
 <br>
@@ -55,6 +55,7 @@ MAS Advocates are industry adopters of the OWASP MASVS, MASWE and MASTG who have
 
 <a href="https://mas.owasp.org/MASTG/0x02c-Acknowledgements/#our-mas-advocates">
 <img src="https://raw.githubusercontent.com/OWASP/mastg/master/Document/Images/Other/nowsecure-logo.png" width="200px;" />
+<img src="https://raw.githubusercontent.com/OWASP/mastg/master/Document/Images/Other/guardsquare-logo.png" width="200px;" />
 </a>
 
 <br><br>
@@ -63,7 +64,7 @@ MAS Advocates are industry adopters of the OWASP MASVS, MASWE and MASTG who have
 
 <br>
 
-<img align="right" style="padding: 10px;" width="250px" src="https://raw.githubusercontent.com/OWASP/mastg/master/docs/assets/masvs_cover.png">
+<img align="right" style="padding: 10px;" width="250px" src="https://raw.githubusercontent.com/OWASP/masvs/master/cover.png">
 
 ### OWASP MASVS
 
@@ -71,7 +72,7 @@ The OWASP Mobile Application Security Verification Standard (MASVS) is the indus
 
 <br>
 
-- <a href="https://github.com/OWASP/masvs/"><img src="https://raw.githubusercontent.com/OWASP/mastg/master/docs/assets/GitHub_logo.png" width="18px"> GitHub Repo</a>
+- <a href="https://github.com/OWASP/masvs/"><img src="https://raw.githubusercontent.com/OWASP/mastg/master/Document/Images/GitHub_logo.png" width="18px"> GitHub Repo</a>
 - 📖 [Read it](https://mas.owasp.org/MASVS/)
 - ⬇️ [Download the PDF](https://github.com/OWASP/masvs/releases/latest)
 
@@ -79,20 +80,20 @@ The OWASP Mobile Application Security Verification Standard (MASVS) is the indus
 
 ### OWASP MASWE
 
-<img align="right" style="padding: 10px;" width="250px" src="https://raw.githubusercontent.com/OWASP/mastg/master/docs/assets/maswe_cover.png">
+<img align="right" style="padding: 10px;" width="250px" src="https://raw.githubusercontent.com/OWASP/mas-website/main/docs/assets/maswe_cover.png">
 
 The OWASP Mobile Application Security Weakness Enumeration (MASWE) is a list of common security and privacy weaknesses in mobile applications. It is intended to be used as a reference for developers, security researchers, and security professionals. It acts as the bridge between the OWASP MASVS and the OWASP MASTG.
 
 <br>
 
-- <a href="https://github.com/OWASP/maswe/"><img src="https://raw.githubusercontent.com/OWASP/mastg/master/docs/assets/GitHub_logo.png" width="18px"> GitHub Repo</a>
+- <a href="https://github.com/OWASP/maswe/"><img src="https://raw.githubusercontent.com/OWASP/mastg/master/Document/Images/GitHub_logo.png" width="18px"> GitHub Repo</a>
 - 📖 [Read it](https://mas.owasp.org/MASWE/)
 
 <br><br><br><br>
 
 ### OWASP MASTG
 
-<img align="right" style="padding: 10px;" width="250px" src="https://raw.githubusercontent.com/OWASP/mastg/master/docs/assets/mastg_cover.png" />
+<img align="right" style="padding: 10px;" width="250px" src="https://raw.githubusercontent.com/OWASP/mastg/master/cover.png">
 
 _Previously known as OWASP MSTG (Mobile Security Testing Guide)_
 
@@ -102,18 +103,18 @@ It also provides an exhaustive set of test cases to be used for verifying the co
 
 <br>
 
-- <a href="https://github.com/OWASP/mastg/"><img src="https://raw.githubusercontent.com/OWASP/mastg/master/docs/assets/GitHub_logo.png" width="18px"> GitHub Repo</a>
+- <a href="https://github.com/OWASP/mastg/"><img src="https://raw.githubusercontent.com/OWASP/mastg/master/Document/Images/GitHub_logo.png" width="18px"> GitHub Repo</a>
 - 📖 [Read it](https://mas.owasp.org/MASTG/)
 
 <br><br>
 
 ### Mobile Application Security Checklist
 
-<img align="right" style="padding: 10px;" width="350px" src="https://raw.githubusercontent.com/OWASP/mastg/master/docs/assets/mas_checklist.png" />
+<img align="right" style="padding: 10px;" width="350px" src="https://raw.githubusercontent.com/OWASP/mas-website/main/docs/assets/mas_checklist.png" />
 
 The Mobile Application Security Checklist can be used to apply the MASVS controls during security assessments as it conveniently links to the corresponding MASTG test cases.
 
-- <a href="https://github.com/OWASP/mastg/releases/latest"><img src="https://raw.githubusercontent.com/OWASP/mastg/master/docs/assets/GitHub_logo.png" width="18px"> GitHub Repo (MASTG Releases)</a>
+- <a href="https://github.com/OWASP/mastg/releases/latest"><img src="https://raw.githubusercontent.com/OWASP/mastg/master/Document/Images/GitHub_logo.png" width="18px"> GitHub Repo (MASTG Releases)</a>
 
 Its features include:
 
