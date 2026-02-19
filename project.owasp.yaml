@@ -1,0 +1,45 @@
+audience:
+  - breaker
+  - builder
+  - defender
+community:
+  - name: project-mobile-app-security
+    platform: slack
+    url: https://owasp.slack.com/archives/C1M6ZVC6S
+    description: "Project page: <https://mas.owasp.org>\n\nMASTG:\n<https://github.com/OWASP/owasp-mstg>\nMASVS: <https://github.com/OWASP/owasp-masvs>\n\
+      \nTwitter: <https://twitter.com/OWASP_MAS>\n \n\nLeaders: <@U1M6X5WCU> &amp; <@U5LRFEGR5>"
+  - name: project-mobile-app-security-dev
+    platform: slack
+    url: https://owasp.slack.com/archives/CCBAP0CGN
+    description: Automatic build updates and status updates
+leaders:
+  - name: Carlos Holguera
+    email: carlos.holguera@owasp.org
+    github: cpholguera
+  - name: Sven Schleier
+    email: sven.schleier@owasp.org
+level: 4
+license:
+  - CC-BY-SA-4.0
+name: OWASP Mobile Application Security
+pitch: The OWASP Mobile Application Security (MAS) project consists of a series of documents that establish a security and privacy standard for mobile apps
+  and a comprehensive testing guide that covers the processes, techniques, and tools used during a mobile application security assessment, as well as an
+  exhaustive set of test cases that enables testers to deliver consistent and complete results.
+repositories:
+  - name: www-project-mobile-app-security
+    url: https://github.com/OWASP/www-project-mobile-app-security
+    description: OWASP Foundation Web Repository
+  - name: mastg
+    url: https://github.com/OWASP/mastg
+    description: The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering.
+      It describes technical processes for verifying the OWASP Mobile Security Weakness Enumeration (MASWE) weaknesses, which are in alignment with the
+      OWASP MASVS.
+  - name: masvs
+    url: https://github.com/OWASP/masvs
+    description: The OWASP MASVS (Mobile Application Security Verification Standard) is the industry standard for mobile app security.
+tags:
+  - mas
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-mobile-app-security
